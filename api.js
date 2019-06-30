@@ -4,7 +4,11 @@ get('/get_senting_work_id', {
 
 
 
-
+post('/upload_work_file', {
+    file: 图片,
+    token: 'gujikzrfhndjikgsdrzfnujikhargu',
+    id_work: 1
+});
 
 
 
