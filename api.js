@@ -11,7 +11,11 @@ post('/upload_work_file', {
 });
 
 
-
+//收藏
+get('/collect_product', {
+    token: 'gujikzrfhndjikgsdrzfnujikhargu',
+    id_product: 2
+});
 
 
 
