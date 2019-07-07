@@ -11,9 +11,17 @@ post('/upload_work_file', {
 });
 
 
+//收藏
+get('/collect_product', {
+    token: 'gujikzrfhndjikgsdrzfnujikhargu',
+    id_product: 2
+});
 
 
-
+//获取用户收藏的商品
+get('/get_collected_product', {
+    token: 'gujikzrfhndjikgsdrzfnujikhargu'
+});
 
 
 
