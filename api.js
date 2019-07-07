@@ -18,6 +18,10 @@ get('/collect_product', {
 });
 
 
+//获取用户收藏的商品
+get('/get_collected_product', {
+    token: 'gujikzrfhndjikgsdrzfnujikhargu'
+});
 
 
 
