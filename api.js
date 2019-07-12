@@ -1,19 +1,20 @@
 get('/sent_work', {
-    // 'work_name': '',    //*
-    // 'work_tpl': 1,  //任务类型*
-    // 'work_money': 100,  //每个工作者的任务报酬*
-    // 'work_personNumber': 11,    //工作者人数*
-    // 'work_time': 15906564589,   //发布时间*
-    // 'work_content': 'full discribe of work',    //工作描述*
-    // 'stop_at': 15906564589, //报名截止时间*
-    // 'token': 'dasgsxfjnkbjlkjghdfsafhc',//*
-    // 'id_senting_work': 1,   //get_senting_work_id返回的id*
-    // 'work_url': 'www.baidu.com',    //任务链接
-    'file_num': 1,  //已上传的图片数
-    // 'begin_workTime': 15906564589,  //工作开始时间*
-    // 'stop_workTime': 15906564589,   //工作结束时间*
-    // 'id_communication': 0
+    work_name: '',
+    work_tpl: 1,
+    work_money: 888,
+    work_person_number: 10,
+    work_time: 1562903303949,
+    work_content: '',
+    stop_at: 1562903302317,
+    token: '',
+    id_senting_work: 3,
+    work_url: '',
+    file_num: 1,
+    begin_work_time: 1562903302317,
+    stop_work_time: 1562903302317,
+    id_communication='0'
 });
+
 
 get('/get_senting_work_id', {
     token: 'saduifvghjykbfujksxdzbujilf'
