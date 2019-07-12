@@ -1,4 +1,19 @@
 get('/sent_work', {
+    token: '',
+    lastWork: 3,            //上拉触底时标记页面底部的任务id
+    nextWork: 3,            //下拉刷新时标记页面底部的任务id
+    order: 'created_at',    //根据什么排序
+    orderValue: 1,          //order要大于还是小于什么
+    esc: 'true',            //正序 or 倒序
+    canEnroll: 'true',      //是否只看可报名
+});
+
+
+
+
+
+
+get('/sent_work', {
     work_name: '',
     work_tpl: 1,
     work_money: 888,
