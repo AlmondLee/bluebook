@@ -2,6 +2,18 @@ https://www.almondlee.cn/api/enroll?token=23_pmQX5zkPI5IKxpGzRtLQbxxQtW_-_4owazr
 
 
 
+
+post('/curd_communication', {
+    toekn: '',
+    method: 'get',     //add, update, delete
+    wx_png: 图片,
+    name: 'nightmare',
+    phone: 15019229316,
+    qq: 754125579
+});
+
+
+
 get('/get_works', {
     token: '',
     lastWork: 3,            //上拉触底时标记页面底部的任务id
