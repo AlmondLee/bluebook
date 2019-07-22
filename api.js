@@ -5,7 +5,30 @@ https://www.almondlee.cn/api/enroll?token=23_pmQX5zkPI5IKxpGzRtLQbxxQtW_-_4owazr
 
 post('/curd_communication', {
     toekn: '',
-    method: 'get',     //add, update, delete
+    method: 'worker_get',
+    id_seller: 1
+});
+post('/curd_communication', {
+    toekn: '',
+    method: 'delete',
+    id_communication: 1,
+});
+post('/curd_communication', {
+    toekn: '',
+    method: 'update',     //更新某一组联系方式
+    id_communication: 1,  //要更新的联系方式的id
+    wx_png: 图片,
+    name: 'nightmare',
+    phone: 15019229316,
+    qq: 754125579
+});
+post('/curd_communication', {
+    toekn: '',
+    method: 'get',     //获取自己的所有联系方式
+});
+post('/curd_communication', {
+    toekn: '',
+    method: 'add',     //给自己增加一组联系方式
     wx_png: 图片,
     name: 'nightmare',
     phone: 15019229316,
