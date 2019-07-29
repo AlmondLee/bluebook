@@ -169,6 +169,40 @@ get('/get_products', {
     order: 'updated_at',
     orderValue: 1,
     esc: 'true'
+}, {
+    id: 'int 此任务在数据库中的唯一id',
+    id_openid: '发布者在数据库中的唯一id',
+    senter_name: 'char 发布者的昵称',
+    senter_img: 'char 发布者头像的链接',
+    work_name: 'char 任务名字(标题)',
+    work_content: 'char 任务内容',
+    work_tpl: 'int 任务类型[0 => "其他", 1 => "答问卷", 2 => "代投票", 3 => "帮转发"]',
+    work_money: 'int 赏金/人(单位0.01人民币)',
+    work_person_number: 'int 此工作需要多少人',
+    stop_at: 'int 报名截止时间',
+    senterDatas: 'array 此任务的图片'
+}, {
+    id: 'int 发布者在数据库中的唯一id',
+    openid: 'int 发布者在此公众号的openid',
+    money: 'int 金币余额(单位0.01人民币)',
+    coin: 'int 积分',
+    nick_name: 'char 用户昵称',
+    avatar_url: 'char 用户的头像的链接',
+    created_at: 'int 用户第一次登录的时间',
+    communications: {
+        1: {
+            name: '名字',
+            wx_png: '微信二维码链接',
+            phone: '手机号',
+            qq: 'qq号',
+        },
+        2: {
+            name: '名字',
+            wx_png: '微信二维码链接',
+            phone: '手机号',
+            qq: 'qq号',
+        },
+    },
 });
 
 //
