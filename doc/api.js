@@ -9,8 +9,76 @@ function func (params) {
 }
 
 /******** new ********/
+function set_worker_status (params) {
+    var params = {
+        sure: 1,    //['已审核', '已提交', '未提交', 5 => '已领取', -1 => '未通过', -2 => '客服中']
+        token: '',
+        id_work: 6,
+        id_worker: 38
+    }
+}
 /******** new ********/
 
+
+function delete_file (params) {
+    var params = {
+        token: '',
+        file_name: '/storage/fgjhvdjklfdsKhnbagvkjhnkjgrvfh.png',    //数据库中的content字段
+        type: 'work',                                               //另一种是worker, 分别修改发布和上传凭证时的图片
+        id_work: 5,                                                 //与之关联的任务的id
+    }
+}
+
+
+function get_my_workers (params) {
+    var params = {
+        token: '',
+        id_work: 1  //get_works_by_me传回的work的id; 这是获取该任务需要审核的工作者
+    }
+
+    return {
+    }
+}
+
+
+function get_works_by_me (params) {
+    var params = {
+        token: '',
+    }
+    return {
+        "id": 6,
+        "work_name": "kill",                    //任务标题
+        "work_money": 888,                      //担任报酬
+        "work_person_number": 10,               //需要人数
+        "worker_num": 3,                        //已报名人数
+        // "begin_work_time": 9999999999999999, //任务开始时间
+        // "stop_work_time": 9999999999999,
+        "work_content": "9",                    //任务内容
+        "senter_name": "未设置",                //发布者昵称
+        "senter_img": "未设置",                 //发布者头像
+        "workFiles": [],                        //任务示意图
+        "post_worker_num": 0
+    }
+}
+
+
+function post_work (params) {
+    var params = {
+        token: '',
+        id_work: 5  //工作者将自己接的这个工作提交发布者审核
+    }
+}
+
+
+
+
+function upload_worker_file (params) {
+    var params = {
+        id_work: 5, //接受的任务的id
+        token: '',
+        file: 文件
+    }
+}
 
 
 
@@ -295,3 +363,48 @@ get('/get_simple_products', 'ProductsController@getSimpleProducts');
 get('/get_seller_info', 'SellerController@getSeller');
 
 get('/upload_seller_img', 'ProductsController@uploadSellerImg');
+post('/curd_communication', {
+    toekn: '',
+    method: 'add',     //给自己增加一组联系方式
+    wx_png: 图片,
+    wx_id: '',
+    locate: '',
+    name: 'nightmare',
+    phone: 15019229316,
+    qq: 754125579
+});
+return '{"success":"\u589e\u6dfb\u6210\u529f","Communication":{"name":"","phone":"","qq":"","wx_id":"","locate":"god","id_openid":"9","updated_at":"1564379626","created_at":"1564379626","id":7}}'
+
+
+
+post('/curd_communication', {
+    toekn: '',
+    method: 'worker_get',   //这个就是接单后工作者获取联系方式的方法
+    id_seller: 1    //把get_works返回的id_openid放在这里
+});
+
+
+
+post('/curd_communication', {
+    toekn: '',
+    method: 'delete',
+    id_communication: 1,
+});
+return '{"success":"\u5220\u9664\u6210\u529f"}'
+
+
+
+post('/curd_communication', {
+    toekn: '',
+    method: 'update',     //更新某一组联系方式
+    id_communication: 1,  //要更新的联系方式的id
+    wx_png: 图片,
+    name: 'nightmare',
+    phone: 15019229316,
+    qq: 754125579
+});
+post('/curd_communication', {
+    toekn: '',
+    method: 'get',     //获取自己的所有联系方式
+});
+
