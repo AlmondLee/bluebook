@@ -10,11 +10,12 @@ function func (params) {
 
 /******** new ********/
 
-https://www.almondlee.cn/api/get_user_money?token=24_gUI7EwZGw-npGJDZHX0wEPkASQW1Aa9PAn4O0gmsc-paJaZ_iCWtHZDZu5WBiPOW55-KjzynoxOoCNmsGQNdmA
-
+https://www.almondlee.cn/api/set_super_config?super_token=24_gUI7EwZGw-npGJDZHX0wEPkASQW1Aa9PAn4O0gmsc-paJaZ_iCWtHZDZu5WBiPOW55-KjzynoxOoCNmsGQNdmA&key=egm&value=2
+//egm即为每次enroll的时候give的money数, super_token不会变, 用表单填入
 /******** new ********/
 
 
+https://www.almondlee.cn/api/get_user_money?token=24_gUI7EwZGw-npGJDZHX0wEPkASQW1Aa9PAn4O0gmsc-paJaZ_iCWtHZDZu5WBiPOW55-KjzynoxOoCNmsGQNdmA
 
 function set_worker_status (params) {
     var params = {
