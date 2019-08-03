@@ -1,0 +1,549 @@
+[1m[3m%[23m[1m[0m                                                                                                                                                              k..er.com/public\[0m[23m[24m[J[[31madl[00m@[35mrockpi4B[00m:[34m/www/wwwroot/www.newbrandser.com/public[00m on [32mmaster[00m]
+% [K[153C[36m ✭[00m[155D[?1h=[?2004h[32mc[39m[32mc[39m [4m.[24m[4m.[4m.[24m[?1l>[?2004l
+kc\总用量 56M
+drwxrwxr-x  14 www www 4.0K 8月   1 18:14 [0m[01;34m.[0m
+drwxrwxr-x  24 www www 4.0K 8月   1 18:06 [01;34m..[0m
+-rwxrwxr-x   1 www www  479 7月   9 19:54 [01;32m404.html[0m
+drwxrwxr-x   6 www www 4.0K 7月   9 19:59 [01;34mapp[0m
+-rwxrwxr-x   1 www www 1.7K 7月   9 19:54 [01;32martisan[0m
+drwxrwxr-x   3 www www 4.0K 7月   9 19:54 [01;34mbootstrap[0m
+-rwxrwxr-x   1 www www 1.8K 7月   9 19:59 [01;32mcomposer.json[0m
+-rwxrwxr-x   1 www www 207K 7月   9 19:59 [01;32mcomposer.lock[0m
+drwxrwxr-x   2 www www 4.0K 7月  12 15:01 [01;34mconfig[0m
+drwxrwxr-x   5 www www 4.0K 7月   9 19:54 [01;34mdatabase[0m
+-rwxrwxr-x   1 www www   18 7月   9 19:54 [01;32mdump.rdb[0m
+-rwxrwxr-x   1 www www  714 7月  12 15:01 [01;32m.env[0m
+-rwxrwxr-x   1 www www  565 7月   9 19:54 [01;32m.env.example[0m
+drwxrwxr-x   9 adl adl 4.0K 8月   1 23:29 [01;34m.git[0m
+-rwxrwxr-x   1 www www  111 7月   9 19:54 [01;32m.gitattributes[0m
+-rwxrwxr-x   1 www www   41 7月  29 14:26 [01;32m.gitignore[0m
+-rw-rw-r--   1 adl adl   73 7月  30 00:01 .gitmodules
+-rwxrwxr-x   1 www www    1 7月   9 19:54 [01;32m.htaccess[0m
+-rwxrwxr-x   1 www www 1.1K 7月   9 19:54 [01;32mindex.html[0m
+-rwxrwxr-x   1 www www  236 7月   9 19:54 [01;32minsertToken.php[0m
+-rwxrwxr-x   1 www www 3.4K 7月   9 19:54 [01;32mLoginController.php[0m
+-rwxrwxr-x   1 www www 4.9K 7月   9 19:54 [01;32mmanifest.2ae2e69a05c33dfc65f8.js.map[0m
+drwxrwxr-x 979 www www  36K 7月   9 19:54 [01;34mnode_modules[0m
+-rw-rw-r--   1 adl adl 244K 8月   1 22:49 now.sql
+-rwxrwxr-x   1 www www 1.1K 7月   9 19:54 [01;32mpackage.json[0m
+-rwxrwxr-x   1 www www 645K 7月   9 19:54 [01;32mpackage-lock.json[0m
+-rwxrwxr-x   1 www www 1.1K 7月   9 19:54 [01;32mphpunit.xml[0m
+drwxrwxr-x   6 adl adl 4.0K 8月   1 23:40 [01;34mpublic[0m
+-rwxrwxr-x   1 www www 3.5K 7月   9 19:54 [01;32mreadme.md[0m
+drwxrwxr-x   5 www www 4.0K 7月   9 19:54 [01;34mresources[0m
+drwxrwxr-x   2 www www 4.0K 7月  30 17:54 [01;34mroutes[0m
+-rwxrwxr-x   1 www www 980K 7月  12 14:04 [01;32mscreenlog.0[0m
+-rwxrwxr-x   1 www www  563 7月   9 19:54 [01;32mserver.php[0m
+-rwxrwxr-x   1 www www  20K 7月  21 18:01 [01;32msql.sql[0m
+-rwxrwxr-x   1 www www   60 7月   9 19:54 [01;32mstopSeller.sh[0m
+drwxrwxr-x   5 www www 4.0K 7月   9 19:54 [01;34mstorage[0m
+-rwxrwxr-x   1 www www    0 7月   9 19:54 [01;32mT1[0m
+-rwxrwxr-x   1 www www  16K 7月   9 19:54 [01;32mtags[0m
+-rwxrwxr-x   1 www www  53M 7月   9 19:54 [01;32mtags.vendors[0m
+drwxrwxr-x   4 www www 4.0K 7月   9 19:54 [01;34mtests[0m
+drwxrwxr-x  50 www www 4.0K 7月   9 19:59 [01;34mvendor[0m
+-rwxrwxr-x   1 www www  549 7月   9 19:54 [01;32mwebpack.mix.js[0m
+-rwxrwxr-x   1 www www  18K 7月   9 19:54 [01;32mWorkerController.php[0m
+[1m[3m%[23m[1m[0m                                                                                                                                                              k..wbrandser.com\c[0m[23m[24m[J[[31madl[00m@[35mrockpi4B[00m:[34m/www/wwwroot/www.newbrandser.com[00m on [32mdev[00m]
+% [K[149C[31m ✖[34m ✹[36m ✭[00m[155D[?1h=[?2004h[32mc[39m[32mc[39m [4m.[24m[4m.[4m.[24m[24m.[24m./lm[4m.[4m.[4m/[4ma[4ml[4mmondlee.cn/public/w/pkg[24m[4m/[24m[24m [24m [24m [?1l>[?2004l
+kc\总用量 174M
+drwxrwxr-x  9 www  www  4.0K 8月   1 23:39 [0m[01;34m.[0m
+drwxrwxr-x  6 www  www  4.0K 7月  30 16:08 [01;34m..[0m
+drwxrwxr-x  2 www  www  4.0K 7月  23 17:05 [01;34maria[0m
+drwxrwxr-x  3 www  www  4.0K 7月  28 11:05 [01;34mconf[0m
+drwxrwxr-x  3 adl  adl  4.0K 8月   1 23:40 [01;34mlm[0m
+drwxrwxr-x 11 adl  adl  4.0K 7月  24 00:17 [01;34mNeoTerm[0m
+drwxrwxr-x  2 adl  adl   40K 7月  24 17:59 [01;34mneoterm-deb-repo[0m
+drwxrwxr-x  2 adl  adl  4.0K 8月   1 23:28 [01;34mpkg[0m
+drwxrwxr-x  2 www  www  4.0K 7月  12 08:47 [01;34mrsa_pub[0m
+-rw-r--r--  1 root root 157M 8月   1 23:39 [01;31mvim.tar[0m
+-rwxrwxr-x  1 www  www   17M 7月  10 14:45 [01;32mwuli.zip[0m
+[1m[3m%[23m[1m[0m                                                                                                                                                              k..e.cn/public/w\[0m[23m[24m[J[[31madl[00m@[35mrockpi4B[00m:[34m/www/wwwroot/almondlee.cn/public/w[00m on [32mmaster[00m]
+% [K[149C[31m ✖[34m ✹[36m ✭[00m[155D[?1h=[?2004h[1m[31mx[0m[39m[0m[32mx[32mz[39m[1m[31mx[0m[39m[39m [0m[39m [1m[31m\[0m[39m[0m[32m\[32mxz[39m -9 -vvv -T 3 [34m*[39m.deb    [39m [4mv[24m[4mv[4mim.tar[24m[1m [0m[0m [?1l>[?2004l
+k\xz\xz: Filter chain: --lzma2=dict=64MiB,lc=3,lp=0,pb=2,mode=normal,nice=64,mf=bt4,depth=0
+xz: Using up to 3 threads.
+xz: 3,748 MiB of memory is required. The limiter is disabled.
+xz: Decompression will need 65 MiB of memory.
+vim.tar (1/1)
+  0.5 %           0.3 MiB / 0.8 MiB = 0.354                   0:01               1.0 %           0.4 MiB / 1.6 MiB = 0.255                   0:02               1.6 %           0.7 MiB / 2.6 MiB = 0.274   719 KiB/s       0:03               2.4 %           0.9 MiB / 3.7 MiB = 0.235   788 KiB/s       0:04               2.9 %           1.0 MiB / 4.5 MiB = 0.221   764 KiB/s       0:06               3.6 %           1.2 MiB / 5.6 MiB = 0.221   787 KiB/s       0:07               4.4 %           1.3 MiB / 7.0 MiB = 0.194   842 KiB/s       0:08   3 min 10 s  5.1 %           1.5 MiB / 7.9 MiB = 0.192   841 KiB/s       0:09    3 min 0 s  5.7 %           1.7 MiB / 8.9 MiB = 0.191   840 KiB/s       0:10    3 min 0 s  6.3 %           1.8 MiB / 9.9 MiB = 0.184   837 KiB/s       0:12    3 min 0 s  6.9 %          2.0 MiB / 10.8 MiB = 0.184   835 KiB/s       0:13    3 min 0 s  7.5 %          2.2 MiB / 11.7 MiB = 0.185   828 KiB/s       0:14    3 min 0 s  8.0 %          2.3 MiB / 12.5 MiB = 0.187   820 KiB/s       0:15    3 min 0 s  8.6 %          2.5 MiB / 13.4 MiB = 0.183   815 KiB/s       0:16    3 min 0 s  9.1 %          2.6 MiB / 14.3 MiB = 0.184   811 KiB/s       0:18    3 min 0 s  9.7 %          2.8 MiB / 15.2 MiB = 0.185   809 KiB/s       0:19    3 min 0 s 10.3 %          2.9 MiB / 16.2 MiB = 0.181   810 KiB/s       0:20    3 min 0 s 10.8 %          3.0 MiB / 16.9 MiB = 0.181   797 KiB/s       0:21    3 min 0 s 11.1 %          3.2 MiB / 17.4 MiB = 0.185   780 KiB/s       0:22   3 min 10 s 11.5 %          3.3 MiB / 18.0 MiB = 0.186   765 KiB/s       0:24   3 min 10 s 11.8 %          3.5 MiB / 18.5 MiB = 0.187   749 KiB/s       0:25   3 min 10 s 12.2 %          3.6 MiB / 19.0 MiB = 0.188   737 KiB/s       0:26   3 min 20 s 12.5 %          3.7 MiB / 19.5 MiB = 0.189   723 KiB/s       0:27   3 min 20 s 12.8 %          3.8 MiB / 20.0 MiB = 0.190   710 KiB/s       0:28   3 min 20 s[1m[3m%[23m[1m[0m                                                                                                                                                              k..er.com/public\[0m[23m[24m[J[[31madl[00m@[35mrockpi4B[00m:[34m/www/wwwroot/www.newbrandser.com/public[00m on [32mmaster[00m]
+% [K[153C[36m ✭[00m[155D[?1h=[?2004h[32mc[39m[32mc[39m [4m.[24m[4m.[4m.[24m[4m.[4m/[24m[4m/[4m.[24m[4m.[4m.[24m[4m.[4m/[24m[4m/[4ma[24m[24m.[24m.[24m/[24m.[24m.[24m/[24ma
+[J[01;34malmondlee.cn[0m/  [Jaria         [JM[0m[23m[24m[2C[32mc[39m ../../a[K[144C[36m ✭[00m[146Dlmondlee.cn[1m/[0m
+[J[7malmondlee.cn/[0m  [Jaria         [JM[0m[23m[24m[2C[32mc[39m ../../almondlee.cn[1m/[0m[K[132C[36m ✭[00m[134D
+[7malmondlee.cn/[0m  [7malmondlee.cn/[0m  M[0m[23m[24m[2C[32mc[39m ../../almondlee.cn[1m/[0m[K[132C[36m ✭[00m[134D
+[JM[23C[19D[4m.[4m.[4m/[4m.[4m.[4m/[4ma[4ml[4mm[4mo[4mn[4md[4ml[4me[4me[4m.[4mc[4mn[0m[4m/[4mw[24m[20D[24m.[24m.[24m/[24m.[24m.[24m/[24ma[24ml[24mm[24mo[24mn[24md[24ml[24me[24me[24m.[24mc[24mn[24m/[24mw. 13.1 %          3.9 MiB / 20.5 MiB = 0.191   699 KiB/s       0:30   3 min 20 s 13.4 %          4.0 MiB / 21.1 MiB = 0.189   689 KiB/s       0:31   3 min 30 s 13.8 %          4.1 MiB / 21.6 MiB = 0.190   681 KiB/s       0:32   3 min 30 s 14.1 %          4.2 MiB / 22.1 MiB = 0.191   673 KiB/s       0:33   3 min 30 s 14.4 %          4.3 MiB / 22.6 MiB = 0.192   664 KiB/s       0:34   3 min 30 s 14.8 %          4.4 MiB / 23.1 MiB = 0.190   657 KiB/s       0:36   3 min 30 s 15.2 %          4.5 MiB / 23.8 MiB = 0.190   652 KiB/s       0:37   3 min 30 s 15.4 %          4.6 MiB / 24.2 MiB = 0.192   643 KiB/s       0:38   3 min 30 s 15.8 %          4.7 MiB / 24.7 MiB = 0.192   638 KiB/s       0:39   3 min 40 sp[24D[39mc[23C[24D[32mc[39m[22C [21D[4m.[4m.[4m/[4m.[4m.[4m/[4ma[4ml[4mm[4mo[4mn[4md[4ml[4me[4me[4m.[4mc[4mn[4m/[4mw[24m [20D[24m.[24m.[24m/[24m.[24m.[24m/[24ma[24ml[24mm[24mo[24mn[24md[24ml[24me[24me[24m.[24mc[24mn[24m/[24mw/l[24D[39mc[23C[24D[32mc[39m[22C [21D[4m.[4m.[4m/[4m.[4m.[4m/[4ma[4ml[4mm[4mo[4mn[4md[4ml[4me[4me[4m.[4mc[4mn[4m/[4mw[24m [4m/[24m[24m [4m/[4mp[24m[4mp[4mu[24m[4mu[4mblic[1m[4m/[0m[24m[0m[4m/[24m 16.4 %          4.9 MiB / 25.7 MiB = 0.189   643 KiB/s       0:40   3 min 30 s 17.2 %          6.0 MiB / 26.9 MiB = 0.224   655 KiB/s       0:42   3 min 30 s 18.0 %          7.1 MiB / 28.1 MiB = 0.252   665 KiB/s       0:43   3 min 20 s 18.8 %          8.4 MiB / 29.4 MiB = 0.284   677 KiB/s       0:44   3 min 20 s 19.6 %          9.6 MiB / 30.7 MiB = 0.314   687 KiB/s       0:45   3 min 10 s 20.4 %         10.9 MiB / 31.9 MiB = 0.341   696 KiB/s       0:46   3 min 10 s 21.1 %         12.0 MiB / 33.0 MiB = 0.363   702 KiB/s       0:48    3 min 0 s 21.8 %         13.1 MiB / 34.1 MiB = 0.383   708 KiB/s       0:49    3 min 0 s[4m/[4mw[24m[4mw[4m/[24m[4m/[4ml[24m[4ml[4mm[1m[4m/[0m[24m[0m[4m/[4md[24m[4md[4me[24m[33D[24m.[24m.[24m/[24m.[24m.[24m/[24ma[24ml[24mm[24mo[24mn[24md[24ml[24me[24me[24m.[24mc[24mn[24m/[24mp[24mu[24mb[24ml[24mi[24mc[24m/[24mw[24m/[24ml[24mm[24m/[24md[24me
+[J[J[01;34mdebs[0m/                   [J[01;31mdeepin-wine-ubuntu.tar[0m[JM[0m[23m[24m[2C[32mc[39m ../../almondlee.cn/public/w/lm/de[K[118C[36m ✭[00m[120Dbs[1m/[0m
+[J[7mdebs/                 [0m  [J[01;31mdeepin-wine-ubuntu.tar[0m[JM[0m[23m[24m[2C[32mc[39m ../../almondlee.cn/public/w/lm/debs[1m/[0m[K[115C[36m ✭[00m[117D
+[7mdebs/                 [0m  [7mdebs/                 [0m  M[0m[23m[24m[2C[32mc[39m ../../almondlee.cn/public/w/lm/debs[1m/[0m[K[115C[36m ✭[00m[117D
+[JM[40C[36D[4m.[4m.[4m/[4m.[4m.[4m/[4ma[4ml[4mm[4mo[4mn[4md[4ml[4me[4me[4m.[4mc[4mn[4m/[4mp[4mu[4mb[4ml[4mi[4mc[4m/[4mw[4m/[4ml[4mm[4m/[4md[4me[4mb[4ms[1m[4m/[0m[24m[4ms[24m[0m[24m [?1l>[?2004l
+[Jkc\总用量 472M
+drwxr-xr-x 2 adl adl 4.0K 8月   1 23:39 [0m[01;34m.[0m
+drwxrwxr-x 3 adl adl 4.0K 8月   1 23:40 [01;34m..[0m
+-rw-r--r-- 1 adl adl  88M 7月  14 12:27 [01;31mdeepin.com.qq.im_8.9.19983deepin23_i386.deb.xz[0m
+-rw-r--r-- 1 adl adl  54M 8月   1 22:37 [01;31mdeepin.com.thunderspeed_7.10.35.366deepin18_i386.deb.xz[0m
+-rw-r--r-- 1 adl adl  35M 4月  27  2018 [01;31mdeepin.com.wechat_2.6.2.31deepin0_i386.deb.xz[0m
+-rw-r--r-- 1 adl adl  57M 7月  14 11:35 [01;31mgoogle-chrome-stable_current_amd64.deb.xz[0m
+-rw-r--r-- 1 adl adl  14K 7月  14 11:54 [01;31mindicator-sysmonitor_0.8.2ubuntu1_all.deb.xz[0m
+-rw-rw-r-- 1 adl adl 100M 7月  14 09:27 [01;31mnetease-cloud-music_1.2.1_amd64_ubuntu_20190428.deb.xz[0m
+-rw-r--r-- 1 adl adl  22M 7月  14 11:55 [01;31msogoupinyin_2.2.0.0108_amd64.deb.xz[0m
+-rw-r--r-- 1 adl adl 355K 7月  29 17:01 [01;31muget_2.2.1-0ubuntu0_bionic_amd64.deb.xz[0m
+-rw-rw-r-- 1 adl adl 118M 3月   8 20:00 [01;31mwps-office_10.1.0.6758_amd64.deb[0m
+-rw------- 1 adl adl    0 8月   1 23:39 [01;31mwps-office_10.1.0.6758_amd64.deb.xz[0m
+[1m[3m%[23m[1m[0m                                                                                                                                                              k..lic/w/lm/debs\[0m[23m[24m[J[[31madl[00m@[35mrockpi4B[00m:[34m/www/wwwroot/almondlee.cn/public/w/lm/debs[00m on [32mmaster[00m]
+% [K[149C[31m ✖[34m ✹[36m ✭[00m[155D[?1h=[?2004h[1m[31mo[0m[39m[0m[32mo[32mp[39m[?1l>[?2004l
+kop\[?1h=[?25l[H[J[mtop - 23:41:19 up  2:11,  6 users,  load average: 1.88, 1.47, 1.09[m[39;49m[m[39;49m[K
+任务:[m[39;49m[1m 241 [m[39;49mtotal,[m[39;49m[1m   2 [m[39;49mrunning,[m[39;49m[1m 239 [m[39;49msleeping,[m[39;49m[1m   0 [m[39;49mstopped,[m[39;49m[1m   0 [m[39;49mzombie[m[39;49m[m[39;49m[K
+%Cpu(s):[m[39;49m[1m  4.0 [m[39;49mus,[m[39;49m[1m  1.8 [m[39;49msy,[m[39;49m[1m  0.0 [m[39;49mni,[m[39;49m[1m 94.2 [m[39;49mid,[m[39;49m[1m  0.0 [m[39;49mwa,[m[39;49m[1m  0.0 [m[39;49mhi,[m[39;49m[1m  0.0 [m[39;49msi,[m[39;49m[1m  0.0 [m[39;49mst[m[39;49m[m[39;49m[K
+KiB Mem :[m[39;49m[1m  3903116 [m[39;49mtotal,[m[39;49m[1m    12036 [m[39;49mfree,[m[39;49m[1m  2332752 [m[39;49mused,[m[39;49m[1m  1558328 [m[39;49mbuff/cache[m[39;49m[m[39;49m[K
+KiB Swap:[m[39;49m[1m  8388604 [m[39;49mtotal,[m[39;49m[1m  8382400 [m[39;49mfree,[m[39;49m[1m     6204 [m[39;49mused.[m[39;49m[1m  1533264 [m[39;49mavail Mem [m[39;49m[m[39;49m[K
+[K
+[7m进� USER      PR  NI    VIRT    RES    SHR �  %CPU %MEM     TIME+ COMMAND                                                                                   [m[39;49m[K
+[m 7284 adl       20   0 2148084 639088   1980 S 104.8 16.4   0:59.09 xz -9 -vvv -T 3 vim.tar                                                                   [m[39;49m[K
+[m  522 adl       20   0 2148088 912840   1980 S 100.0 23.4   9:56.80 xz -9 -vvv -T 3 deepin.com.qq.im_8.9.19983deepin23_i386.deb deepin.com.thunderspeed_7.10+ [m[39;49m[K
+[m[1m 7968 adl       20   0   12720   3640   2908 R  33.3  0.1   0:00.12 top -c -d 3                                                                               [m[39;49m[K
+[m    7 root      20   0       0      0      0 S   4.8  0.0   0:40.64 [rcu_sched]                                                                               [m[39;49m[K
+[m    1 root      20   0   95792   7732   5752 S   0.0  0.2   0:16.92 /sbin/init                                                                                [m[39;49m[K
+[m    2 root      20   0       0      0      0 S   0.0  0.0   0:00.01 [kthreadd]                                                                                [m[39;49m[K
+[m    3 root      20   0       0      0      0 S   0.0  0.0   0:01.17 [ksoftirqd/0]                                                                             [m[39;49m[K
+[m    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 [kworker/0:0H]                                                                            [m[39;49m[K
+[m    8 root      20   0       0      0      0 S   0.0  0.0   0:00.00 [rcu_bh]                                                                                  [m[39;49m[K
+[m    9 root      rt   0       0      0      0 S   0.0  0.0   0:00.60 [migration/0]                                                                             [m[39;49m[K
+[m   10 root      rt   0       0      0      0 S   0.0  0.0   0:00.12 [watchdog/0]                                                                              [m[39;49m[K
+[m   11 root      rt   0       0      0      0 S   0.0  0.0   0:00.10 [watchdog/1]                                                                              [m[39;49m[K
+[m   12 root      rt   0       0      0      0 S   0.0  0.0   0:00.57 [migration/1]                                                                             [m[39;49m[K
+[m   13 root      20   0       0      0      0 S   0.0  0.0   0:00.24 [ksoftirqd/1]                                                                             [m[39;49m[K
+[m   15 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 [kworker/1:0H]                                                                            [m[39;49m[K
+[m   16 root      rt   0       0     22.5 %         14.2 MiB / 35.2 MiB = 0.403   714 KiB/s       0:50    3 min 0 s 23.2 %         15.2 MiB / 36.3 MiB = 0.420   718 KiB/s       0:51    3 min 0 s 23.8 %         16.2 MiB / 37.2 MiB = 0.435   721 KiB/s       0:52   2 min 50 s 24.5 %         17.3 MiB / 38.3 MiB = 0.451   725 KiB/s       0:54   2 min 50 s 25.1 %         18.2 MiB / 39.3 MiB = 0.464   728 KiB/s       0:55   2 min 50 s 25.7 %         19.2 MiB / 40.3 MiB = 0.477   730 KiB/s       0:56   2 min 50 s 26.3 %         20.2 MiB / 41.3 MiB = 0.490   732 KiB/s       0:57   2 min 50 s 27.0 %         21.1 MiB / 42.2 MiB = 0.501   734 KiB/s       0:58   2 min 40 s  0      0 S   0.0  0.0   0:00.08 [watchdog/2]                                                                              [m[39;49m[K
+[m   17 root      rt   0       0      0      0 S   0.0  0.0   0:00.52 [migration/2]                                                                             [m[39;49m[K
+[m   18 root      20   0       0      0      0 S   0.0  0.0   0:00.19 [ksoftirqd/2]                                                                             [m[39;49m[K
+[m   20 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 [kworker/2:0H]                                                                            [m[39;49m[K
+[m   21 root      rt   0       0      0      0 S   0.0  0.0   0:00.08 [watchdog/3]                                                                              [m[39;49m[K
+[m   22 root      rt   0       0      0      0 S   0.0  0.0   0:00.47 [migration/3]                                                                             [m[39;49m[K
+[m   23 root      20   0       0      0      0 S   0.0  0.0   0:00.19 [ksoftirqd/3]                                                                             [m[39;49m[K
+[m   25 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 [kworker/3:0H]                                                                            [m[39;49m[K
+[m   26 root      rt   0       0      0      0 S   0.0  0.0   0:00.10 [watchdog/4]                                                                              [m[39;49m[K
+[m   27 root      rt   0       0      0      0 S   0.0  0.0   0:00.16 [migration/4]                                                                             [m[39;49m[K
+[m   28 root      20   0       0      0      0 S   0.0  0.0   0:00.82 [ksoftirqd/4]                                                                             [m[39;49m[K
+[m   30 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 [kworker/4:0H]                                                                            [m[39;49m[K
+[m   31 root      rt   0       0      0      0 S   0.0  0.0   0:00.06 [watchdog/5]                                                                              [m[39;49m[K
+[m   32 root      rt   0       0      0      0 S   0.0  0.0   0:00.13 [migration/5]                                                                             [m[39;49m[K
+[m   33 root      20   0       0      0      0 S   0.0  0.0   0:00.82 [ksoftirqd/5]                                                                             [m[39;49m[K
+[m   35 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 [kworker/5:0H]                                                                            [m[39;49m[K
+[m   36 root      20   0       0      0      0 S   0.0  0.0   0:00.00 [kdevtmpfs]                                                                               [m[39;49m[K[H[mtop - 23:41:22 up  2:11,  6 users,  load average: 1.88, 1.47, 1.09[m[39;49m[m[39;49m[K
+任务:[m[39;49m[1m 241 [m[39;49mtotal,[m[39;49m[1m   1 [m[39;49mrunning,[m[39;49m[1m 240 [m[39;49msleeping,[m[39;49m[1m   0 [m[39;49mstopped,[m[39;49m[1m   0 [m[39;49mzombie[m[39;49m[m[39;49m[K
+%Cpu(s):[m[39;49m[1m 35.2 [m[39;49mus,[m[39;49m[1m  3.1 [m[39;49msy,[m[39;49m[1m  0.0 [m[39;49mni,[m[39;49m[1m 61.8 [m[39;49mid,[m[39;49m[1m  0.0 [m[39;49mwa,[m[39;49m[1m  0.0 [m[39;49mhi,[m[39;49m[1m  0.0 [m[39;49msi,[m[39;49m[1m  0.0 [m[39;49mst[m[39;49m[m[39;49m[K
+KiB Mem :[m[39;49m[1m  3903116 [m[39;49mtotal,[m[39;49m[1m    11880 [m[39;49mfree,[m[39;49m[1m  2356728 [m[39;49mused,[m[39;49m[1m  1534508 [m[39;49mbuff/cache[m[39;49m[m[39;49m[K
+KiB Swap:[m[39;49m[1m  8388604 [m[39;49mtotal,[m[39;49m[1m  8382400 [m[39;49mfree,[m[39;49m[1m     6204 [m[39;49mused.[m[39;49m[1m  1509288 [m[39;49mavail Mem [m[39;49m[m[39;49m[K
+[K
+
+[m  522 adl       20   0 2148088 912840   1980 S 100.0 23.4   9:59.87 xz -9 -vvv -T 3 deepin.com.qq.im_8.9.19983deepin23_i386.deb deepin.com.thunderspeed_7.10+ [m[39;49m[K
+[m 7284 adl       20   0 2148084 663112   1980 S  99.7 17.0   1:02.15 xz -9 -vvv -T 3 vim.tar                                                                   [m[39;49m[K
+[m 1091 root      20   0  392392  13368   6408 S   6.2  0.3   4:41.65 python task.py                                                                            [m[39;49m[K
+[m30425 adl       20   0   12720   3640   2900 S   2.6  0.1   0:11.06 top -c -d 3                                                                               [m[39;49m[K
+[m[1m 7968 adl       20   0   12720   3640   2908 R   2.3  0.1   0:00.19 top -c -d 3                                                                               [m[39;49m[K
+[m   67 root      20   0       0      0      0 S   1.6  0.0   0:02.78 [kswapd0]                                                                                 [m[39;49m[K
+[m  757 mongodb   20   0  967124  70824  31132 S   1.3  1.8   1:42.99 /usr/bin/mongod --unixSocketPrefix=/run/mongodb --config /etc/mongodb.conf                [m[39;49m[K
+[m  560 message+  20   0    7924   4284   3136 S   1.0  0.1   0:28.93 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activati+ [m[39;49m[K
+[m    7 root      20   0       0      0      0 S   0.7  0.0   0:40.66 [rcu_sched]                                                                               [m[39;49m[K
+[m   48 root      rt   0       0      0      0 S   0.7  0.0   0:21.36 [cfinteractive]                                                                           [m[39;49m[K
+[m  827 redis     20   0   43244   3504   2376 S   0.7  0.1   0:38.77 /usr/bin/redis-server 127.0.0.1:6379                                                      [m[39;49m[K
+[m  949 lightdm   20   0  482136  31688  23156 S   0.7  0.8   0:41.12 /usr/sbin/slick-greeter                                                                   [m[39;49m[K
+[m    1 root      20   0   95792   7732   5752 S   0.3  0.2   0:16.93 /sbin/init                                                                                [m[39;49m[K
+[m  807 root      20   0  636444  45172  32136 S   0.3  1.2   0:12.60 /usr/lib/xorg/Xorg -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7+ [m[39;49m[K
+[m 2030 mysql     20   0 2475816 222148  18824 S   0.3  5.7   0:14.83 /www/server/mysql/bin/mysqld --basedir=/www/server/mysql --datadir=/www/server/data --pl+ [m[39;49m[K
+[m 2643 root      20   0  113656   6672   4336 S   0.3  0.2   0:14.74 /root/frp_0.27.0_linux_arm64/frpc -c /root/frp_0.27.0_linux_arm64/frpc.ini                [m[39;49m[K
+[m 5021 root      20   0   12424   6336   5324 S   0.3  0.2   0:00.72 sshd: root@pts/1                                                                          [m[39;49m[K
+[m    2 root      20   0       0      0      0 S   0.0  0.0   0:00.01 [kthreadd]                                                                                [m[39;49m[K
+[m    3 root      20   0       0      0      0 S   0.0  0.0   0:01.17 [ksoftirqd/0]                                                                             [m[39;49m[K
+[m    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 [kworker/0:0H]                                                                            [m[39;49m[K
+[m    8 root      20   0       0      0      0 S   0.0  0.0   0:00.00 [rcu_bh]                                                                                  [m[39;49m[K
+[m    9 root      rt   0       0      0      0 S   0.0  0.0   0:00.60 [migration/0]                                                                             [m[39;49m[K
+[m   10 root      rt   0       0      0      0 S   0.0  0.0   0:00.12 [watchdog/0]                                                                              [m[39;49m[K
+[m   11 root      rt   0       0      0      0 S   0.0  0.0   0:00.10 [watchdog/1]                                                                              [m[39;49m[K
+[m   12 root      rt   0       0      0      0 S   0.0  0.0   0:00.57 [migration/1]                                                                             [m[39;49m[K
+[m   13 root      20   0       0      0      0 S   0.0  0.0   0:00.24 [ksoftirqd/1]                                                                             [m[39;49m[K
+[m   15 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 [kworker/1:0H]                                                                            [m[39;49m[K
+[m   16 root      rt   0       0      0      0 S   0.0  0.0   0:00.08 [watchdog/2]                                                                              [m[39;49m[K
+[m   17 root      rt   0       0      0      0 S   0.0  0.0   0:00.52 [migration/2]                                                                             [m[39;49m[K
+[m   18 root      20   0       0      0      0 S   0.0  0.0   0:00.19 [ksoftirqd/2]                                                                             [m[39;49m[K
+[m   20 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 [kworker/2:0H]                                                                            [m[39;49m[K
+[m   21 root      rt   0       0      0      0 S   0.0  0.0   0:00.08 [watchdog/3]                                                                              [m[39;49m[K 27.5 %         22.1 MiB / 43.1 MiB = 0.512   735 KiB/s       1:00   2 min 40 s 28.1 %         22.9 MiB / 44.1 MiB = 0.519   736 KiB/s       1:01   2 min 40 s 28.7 %         23.8 MiB / 45.0 MiB = 0.530   737 KiB/s       1:02   2 min 40 s 29.3 %         24.6 MiB / 45.8 MiB = 0.538   737 KiB/s       1:03   2 min 40 s 29.8 %         25.3 MiB / 46.6 MiB = 0.544   735 KiB/s       1:04   2 min 40 s 30.3 %         26.1 MiB / 47.5 MiB = 0.550   736 KiB/s       1:06   2 min 40 s 30.9 %         26.9 MiB / 48.4 MiB = 0.556   736 KiB/s       1:07   2 min 30 s 31.4 %         27.6 MiB / 49.2 MiB = 0.562   735 KiB/s       1:08   2 min 30 s 31.9 %         28.3 MiB / 50.0 MiB = 0.567   734 KiB/s       1:09   2 min 30 s[?1l>[40;1H
+[34h[?25h[K[1m[3m%[23m[1m[0m                                                                                                                                                              k..lic/w/lm/debs\[0m[23m[24m[J[[31madl[00m@[35mrockpi4B[00m:[34m/www/wwwroot/almondlee.cn/public/w/lm/debs[00m on [32mmaster[00m]
+% [K[149C[31m ✖[34m ✹[36m ✭[00m[155D[?1h=[?2004h[32ml[39m[?1l>[?2004l
+kl\总用量 472M
+drwxr-xr-x 2 adl adl 4.0K 8月   1 23:39 [0m[01;34m.[0m
+drwxrwxr-x 3 adl adl 4.0K 8月   1 23:40 [01;34m..[0m
+-rw-r--r-- 1 adl adl  88M 7月  14 12:27 [01;31mdeepin.com.qq.im_8.9.19983deepin23_i386.deb.xz[0m
+-rw-r--r-- 1 adl adl  54M 8月   1 22:37 [01;31mdeepin.com.thunderspeed_7.10.35.366deepin18_i386.deb.xz[0m
+-rw-r--r-- 1 adl adl  35M 4月  27  2018 [01;31mdeepin.com.wechat_2.6.2.31deepin0_i386.deb.xz[0m
+-rw-r--r-- 1 adl adl  57M 7月  14 11:35 [01;31mgoogle-chrome-stable_current_amd64.deb.xz[0m
+-rw-r--r-- 1 adl adl  14K 7月  14 11:54 [01;31mindicator-sysmonitor_0.8.2ubuntu1_all.deb.xz[0m
+-rw-rw-r-- 1 adl adl 100M 7月  14 09:27 [01;31mnetease-cloud-music_1.2.1_amd64_ubuntu_20190428.deb.xz[0m
+-rw-r--r-- 1 adl adl  22M 7月  14 11:55 [01;31msogoupinyin_2.2.0.0108_amd64.deb.xz[0m
+-rw-r--r-- 1 adl adl 355K 7月  29 17:01 [01;31muget_2.2.1-0ubuntu0_bionic_amd64.deb.xz[0m
+-rw-rw-r-- 1 adl adl 118M 3月   8 20:00 [01;31mwps-office_10.1.0.6758_amd64.deb[0m
+-rw------- 1 adl adl    0 8月   1 23:39 [01;31mwps-office_10.1.0.6758_amd64.deb.xz[0m
+[1m[3m%[23m[1m[0m                                                                                                                                                              k..lic/w/lm/debs\[0m[23m[24m[J[[31madl[00m@[35mrockpi4B[00m:[34m/www/wwwroot/almondlee.cn/public/w/lm/debs[00m on [32mmaster[00m]
+% [K[149C[31m ✖[34m ✹[36m ✭[00m[155D[?1h=[?2004h[?2004l
+ 32.4 %         29.0 MiB / 50.8 MiB = 0.572   733 KiB/s       1:10   2 min 30 s 32.9 %         29.7 MiB / 51.6 MiB = 0.577   732 KiB/s       1:12   2 min 30 s 33.4 %         30.4 MiB / 52.3 MiB = 0.582   731 KiB/s       1:13   2 min 30 s 33.9 %         31.1 MiB / 53.1 MiB = 0.586   730 KiB/s       1:14   2 min 30 s 34.4 %         31.8 MiB / 53.9 MiB = 0.591   728 KiB/s       1:15   2 min 30 s 34.9 %         32.5 MiB / 54.7 MiB = 0.594   727 KiB/s       1:16   2 min 30 s 35.4 %         33.1 MiB / 55.4 MiB = 0.598   726 KiB/s       1:18   2 min 30 s 35.9 %         33.8 MiB / 56.2 MiB = 0.603   725 KiB/s       1:19   2 min 30 s 36.3 %         34.5 MiB / 56.9 MiB = 0.606   723 KiB/s       1:20   2 min 30 s 36.7 %         35.1 MiB / 57.5 MiB = 0.610   721 KiB/s       1:21   2 min 20 s 37.2 %         35.8 MiB / 58.3 MiB = 0.614   720 KiB/s       1:22   2 min 20 s 37.7 %         36.4 MiB / 59.0 MiB = 0.617   718 KiB/s       1:24   2 min 20 s 38.1 %         37.0 MiB / 59.7 MiB = 0.620   716 KiB/s       1:25   2 min 20 s 38.5 %         37.6 MiB / 60.3 MiB = 0.623   714 KiB/s       1:26   2 min 20 s 39.0 %         38.2 MiB / 61.0 MiB = 0.626   712 KiB/s       1:27   2 min 20 s 39.4 %         38.9 MiB / 61.8 MiB = 0.630   711 KiB/s       1:28   2 min 20 s 39.8 %         39.5 MiB / 62.4 MiB = 0.632   709 KiB/s       1:30   2 min 20 s 40.3 %         40.0 MiB / 63.1 MiB = 0.635   707 KiB/s       1:31   2 min 20 s 40.7 %         40.7 MiB / 63.8 MiB = 0.638   706 KiB/s       1:32   2 min 20 s 41.2 %         41.3 MiB / 64.5 MiB = 0.641   704 KiB/s       1:33   2 min 20 s 41.6 %         42.0 MiB / 65.1 MiB = 0.645   702 KiB/s       1:34   2 min 20 s 42.0 %         42.6 MiB / 65.8 MiB = 0.648   701 KiB/s       1:36   2 min 20 s 42.5 %         43.3 MiB / 66.5 MiB = 0.651   699 KiB/s       1:37   2 min 20 s 42.9 %         43.9 MiB / 67.2 MiB = 0.653   698 KiB/s       1:38   2 min 20 s 43.3 %         44.5 MiB / 67.8 MiB = 0.656   696 KiB/s       1:39   2 min 10 s 43.7 %         45.1 MiB / 68.5 MiB = 0.658   694 KiB/s       1:40   2 min 10 s 44.1 %         45.7 MiB / 69.1 MiB = 0.662   693 KiB/s       1:42   2 min 10 s 44.6 %         46.3 MiB / 69.8 MiB = 0.664   691 KiB/s       1:43   2 min 10 s 45.0 %         46.9 MiB / 70.5 MiB = 0.666   690 KiB/s       1:44   2 min 10 s 45.4 %         47.5 MiB / 71.1 MiB = 0.668   688 KiB/s       1:45   2 min 10 s 45.8 %         48.0 MiB / 71.8 MiB = 0.669   687 KiB/s       1:46   2 min 10 s 46.2 %         48.6 MiB / 72.4 MiB = 0.671   685 KiB/s       1:48   2 min 10 s 46.7 %         49.1 MiB / 73.1 MiB = 0.672   684 KiB/s       1:49   2 min 10 s 47.1 %         49.7 MiB / 73.7 MiB = 0.674   683 KiB/s       1:50   2 min 10 s 47.5 %         50.3 MiB / 74.3 MiB = 0.677   681 KiB/s       1:51   2 min 10 s 47.9 %         50.9 MiB / 75.0 MiB = 0.679   679 KiB/s       1:52   2 min 10 s 48.3 %         51.4 MiB / 75.6 MiB = 0.680   678 KiB/s       1:54   2 min 10 s 48.7 %         52.0 MiB / 76.2 MiB = 0.682   676 KiB/s       1:55   2 min 10 s 49.1 %         52.6 MiB / 76.9 MiB = 0.684   675 KiB/s       1:56    2 min 0 s 49.6 %         53.3 MiB / 77.7 MiB = 0.686   675 KiB/s       1:57    2 min 0 s 50.0 %         53.9 MiB / 78.4 MiB = 0.688   674 KiB/s       1:58    2 min 0 s 50.5 %         54.6 MiB / 79.1 MiB = 0.690   674 KiB/s       2:00    2 min 0 s 51.0 %         55.3 MiB / 79.8 MiB = 0.693   673 KiB/s       2:01    2 min 0 s 51.4 %         55.9 MiB / 80.5 MiB = 0.694   673 KiB/s       2:02    2 min 0 s 51.8 %         56.5 MiB / 81.2 MiB = 0.696   672 KiB/s       2:03    2 min 0 s 52.2 %         57.1 MiB / 81.8 MiB = 0.698   670 KiB/s       2:04    2 min 0 s 52.6 %         57.7 MiB / 82.4 MiB = 0.700   669 KiB/s       2:06    2 min 0 s 53.0 %         58.3 MiB / 83.0 MiB = 0.702   667 KiB/s       2:07    2 min 0 s 53.4 %         59.0 MiB / 83.7 MiB = 0.705   666 KiB/s       2:08    2 min 0 s 53.9 %         59.6 MiB / 84.4 MiB = 0.706   666 KiB/s       2:09   1 min 50 s 54.3 %         60.3 MiB / 85.1 MiB = 0.709   665 KiB/s       2:11   1 min 50 s 54.7 %         60.9 MiB / 85.7 MiB = 0.711   664 KiB/s       2:12   1 min 50 s 55.2 %         61.6 MiB / 86.4 MiB = 0.713   663 KiB/s       2:13   1 min 50 s 55.6 %         62.2 MiB / 87.0 MiB = 0.715   662 KiB/s       2:14   1 min 50 s 56.0 %         62.8 MiB / 87.7 MiB = 0.716   661 KiB/s       2:15   1 min 50 s 56.4 %         63.4 MiB / 88.4 MiB = 0.717   661 KiB/s       2:17   1 min 50 s 56.9 %         64.0 MiB / 89.1 MiB = 0.718   660 KiB/s       2:18   1 min 50 s 57.3 %         64.5 MiB / 89.8 MiB = 0.719   659 KiB/s       2:19   1 min 50 s 57.7 %         65.1 MiB / 90.4 MiB = 0.720   659 KiB/s       2:20   1 min 50 s 58.2 %         65.6 MiB / 91.1 MiB = 0.720   658 KiB/s       2:21   1 min 50 s 58.6 %         66.2 MiB / 91.8 MiB = 0.721   657 KiB/s       2:23   1 min 40 s 59.0 %         66.8 MiB / 92.5 MiB = 0.723   656 KiB/s       2:24   1 min 40 s 59.5 %         67.4 MiB / 93.1 MiB = 0.724   656 KiB/s       2:25   1 min 40 s 59.9 %         68.1 MiB / 93.8 MiB = 0.726   655 KiB/s       2:26   1 min 40 s 60.3 %         68.7 MiB / 94.4 MiB = 0.727   654 KiB/s       2:27   1 min 40 s 60.7 %         69.3 MiB / 95.1 MiB = 0.729   654 KiB/s       2:29   1 min 40 s 61.1 %         70.0 MiB / 95.8 MiB = 0.731   653 KiB/s       2:30   1 min 40 s 61.6 %         70.6 MiB / 96.4 MiB = 0.732   652 KiB/s       2:31   1 min 40 s 62.0 %         71.2 MiB / 97.1 MiB = 0.734   651 KiB/s       2:32   1 min 40 s 62.4 %         71.8 MiB / 97.7 MiB = 0.735   650 KiB/s       2:33   1 min 40 s 62.8 %         72.5 MiB / 98.4 MiB = 0.737   650 KiB/s       2:35   1 min 40 s 63.2 %         73.1 MiB / 99.0 MiB = 0.738   649 KiB/s       2:36   1 min 30 s 63.6 %         73.8 MiB / 99.7 MiB = 0.740   648 KiB/s       2:37   1 min 30 s 64.1 %        74.4 MiB / 100.3 MiB = 0.742   648 KiB/s       2:38   1 min 30 s 64.5 %        75.0 MiB / 101.0 MiB = 0.743   647 KiB/s       2:39   1 min 30 s 64.8 %        75.6 MiB / 101.6 MiB = 0.744   646 KiB/s       2:41   1 min 30 s 65.3 %        76.2 MiB / 102.2 MiB = 0.746   645 KiB/s       2:42   1 min 30 s 65.7 %        76.9 MiB / 102.9 MiB = 0.747   645 KiB/s       2:43   1 min 30 s 66.1 %        77.5 MiB / 103.5 MiB = 0.749   644 KiB/s       2:44   1 min 30 s 66.5 %        78.1 MiB / 104.2 MiB = 0.750   643 KiB/s       2:45   1 min 30 s 66.9 %        78.8 MiB / 104.8 MiB = 0.751   643 KiB/s       2:47   1 min 30 s 67.3 %        79.4 MiB / 105.5 MiB = 0.753   642 KiB/s       2:48   1 min 30 s 67.8 %        80.0 MiB / 106.1 MiB = 0.754   641 KiB/s       2:49   1 min 20 s 68.2 %        80.6 MiB / 106.8 MiB = 0.755   641 KiB/s       2:50   1 min 20 s 68.6 %        81.2 MiB / 107.4 MiB = 0.756   640 KiB/s       2:51   1 min 20 s 69.0 %        81.9 MiB / 108.1 MiB = 0.758   639 KiB/s       2:53   1 min 20 s 69.4 %        82.5 MiB / 108.7 MiB = 0.759   639 KiB/s       2:54   1 min 20 s 69.8 %        83.1 MiB / 109.4 MiB = 0.760   638 KiB/s       2:55   1 min 20 s 70.2 %        83.8 MiB / 110.0 MiB = 0.761   638 KiB/s       2:56   1 min 20 s 70.7 %        84.3 MiB / 110.7 MiB = 0.762   637 KiB/s       2:57   1 min 20 s 71.1 %        85.0 MiB / 111.3 MiB = 0.764   637 KiB/s       2:59   1 min 20 s 71.5 %        85.7 MiB / 112.0 MiB = 0.765   636 KiB/s       3:00   1 min 20 s 71.9 %        86.3 MiB / 112.6 MiB = 0.766   635 KiB/s       3:01   1 min 10 s 72.3 %        86.9 MiB / 113.3 MiB = 0.767   635 KiB/s       3:02   1 min 10 s 72.8 %        87.4 MiB / 113.9 MiB = 0.767   635 KiB/s       3:03   1 min 10 s 73.2 %        88.0 MiB / 114.6 MiB = 0.768   634 KiB/s       3:05   1 min 10 s 73.6 %        88.5 MiB / 115.3 MiB = 0.768   634 KiB/s       3:06   1 min 10 s 74.1 %        89.2 MiB / 116.0 MiB = 0.769   633 KiB/s       3:07   1 min 10 s 74.5 %        89.8 MiB / 116.6 MiB = 0.770   633 KiB/s       3:08   1 min 10 s 74.9 %        90.5 MiB / 117.3 MiB = 0.771   632 KiB/s       3:09   1 min 10 s 75.3 %        91.1 MiB / 117.9 MiB = 0.773   632 KiB/s       3:11   1 min 10 s 75.7 %        91.7 MiB / 118.6 MiB = 0.774   631 KiB/s       3:12   1 min 10 s 76.1 %        92.4 MiB / 119.2 MiB = 0.775   631 KiB/s       3:13    1 min 0 s 76.5 %        93.1 MiB / 119.9 MiB = 0.776   630 KiB/s       3:14    1 min 0 s 77.0 %        93.7 MiB / 120.5 MiB = 0.777   630 KiB/s       3:15    1 min 0 s 77.4 %        94.3 MiB / 121.2 MiB = 0.778   630 KiB/s       3:17    1 min 0 s 77.8 %        94.9 MiB / 121.8 MiB = 0.779   629 KiB/s       3:18    1 min 0 s 78.2 %        95.5 MiB / 122.5 MiB = 0.780   629 KiB/s       3:19    1 min 0 s 78.6 %        96.2 MiB / 123.2 MiB = 0.781   628 KiB/s       3:20    1 min 0 s 79.1 %        96.8 MiB / 123.8 MiB = 0.782   628 KiB/s       3:21    1 min 0 s 79.5 %        97.4 MiB / 124.5 MiB = 0.783   628 KiB/s       3:23    1 min 0 s 79.9 %        98.0 MiB / 125.1 MiB = 0.784   627 KiB/s       3:24    1 min 0 s 80.3 %        98.7 MiB / 125.8 MiB = 0.785   627 KiB/s       3:25         50 s 80.7 %        99.3 MiB / 126.4 MiB = 0.786   626 KiB/s       3:26         50 s 81.2 %       100.0 MiB / 127.1 MiB = 0.787   626 KiB/s       3:27         50 s 81.6 %       100.6 MiB / 127.7 MiB = 0.787   626 KiB/s       3:29         50 s 82.0 %       101.2 MiB / 128.4 MiB = 0.788   625 KiB/s       3:30         50 s 82.4 %       101.7 MiB / 129.0 MiB = 0.788   625 KiB/s       3:31         45 s 82.8 %       102.1 MiB / 129.7 MiB = 0.788   624 KiB/s       3:32         45 s 83.2 %       102.5 MiB / 130.3 MiB = 0.786   624 KiB/s       3:33         45 s 83.6 %       103.0 MiB / 131.0 MiB = 0.786   624 KiB/s       3:35         45 s 84.1 %       103.5 MiB / 131.8 MiB = 0.785   624 KiB/s       3:36         40 s 84.7 %       103.7 MiB / 132.7 MiB = 0.782   625 KiB/s       3:37         40 s 85.3 %       104.0 MiB / 133.6 MiB = 0.778   625 KiB/s       3:38         40 s 85.9 %       104.1 MiB / 134.5 MiB = 0.774   626 KiB/s       3:39         35 s 86.4 %       104.3 MiB / 135.3 MiB = 0.771   626 KiB/s       3:41         35 s 86.8 %       104.4 MiB / 136.0 MiB = 0.768   626 KiB/s       3:42         35 s 87.3 %       104.5 MiB / 136.7 MiB = 0.765   626 KiB/s       3:43         35 s 87.8 %       104.7 MiB / 137.5 MiB = 0.762   626 KiB/s       3:44         35 s 88.3 %       104.8 MiB / 138.2 MiB = 0.758   627 KiB/s       3:45         30 s 88.8 %       105.0 MiB / 139.0 MiB = 0.755   627 KiB/s       3:47         30 s 89.2 %       105.1 MiB / 139.8 MiB = 0.752   627 KiB/s       3:48         30 s 89.7 %       105.2 MiB / 140.5 MiB = 0.749   627 KiB/s       3:49         30 s 90.2 %       105.4 MiB / 141.3 MiB = 0.746   627 KiB/s       3:50         25 s 90.9 %       105.5 MiB / 142.3 MiB = 0.741   628 KiB/s       3:51         25 s 91.5 %       105.6 MiB / 143.2 MiB = 0.737   629 KiB/s       3:53         25 s 92.0 %       105.7 MiB / 144.1 MiB = 0.733   630 KiB/s       3:54         20 s 92.7 %       105.8 MiB / 145.2 MiB = 0.729   631 KiB/s       3:55         20 s 93.3 %       105.9 MiB / 146.1 MiB = 0.725   632 KiB/s       3:56         20 s 93.9 %       106.0 MiB / 147.1 MiB = 0.721   633 KiB/s       3:57         15 s 94.3 %       106.1 MiB / 147.7 MiB = 0.718   633 KiB/s       3:59         15 s 94.9 %       106.3 MiB / 148.6 MiB = 0.716   633 KiB/s       4:00         15 s 95.3 %       106.4 MiB / 149.3 MiB = 0.713   633 KiB/s       4:01         15 s 95.7 %       106.5 MiB / 149.9 MiB = 0.711   632 KiB/s       4:02         10 s 96.1 %       106.7 MiB / 150.5 MiB = 0.709   632 KiB/s       4:03          9 s 96.5 %       106.8 MiB / 151.1 MiB = 0.707   631 KiB/s       4:05          8 s 96.9 %       106.9 MiB / 151.7 MiB = 0.705   630 KiB/s       4:06          7 s 97.3 %       107.0 MiB / 152.3 MiB = 0.702   630 KiB/s       4:07          6 s 97.9 %       107.1 MiB / 153.4 MiB = 0.699   631 KiB/s       4:08          5 s 98.6 %       107.3 MiB / 154.5 MiB = 0.695   633 KiB/s       4:09          3 s 99.3 %       107.4 MiB / 155.5 MiB = 0.691   634 KiB/s       4:11          1 s 99.8 %       107.6 MiB / 156.3 MiB = 0.688   634 KiB/s       4:12          1 s  100 %       107.7 MiB / 156.5 MiB = 0.688   633 KiB/s       4:12             
+xz: vim.tar.xz：无法设定文件组：不允许的操作
+[1m[3m%[23m[1m[0m                                                                                                                                                              k..e.cn/public/w\[0m[23m[24m[J[[31madl[00m@[35mrockpi4B[00m:[34m/www/wwwroot/almondlee.cn/public/w[00m on [32mmaster[00m]
+% [K[146C[31m2 ↵[00m[31m ✖[34m ✹[36m ✭[00m[155D[?1h=[?2004h[32ml[39m[?1l>[?2004l
+kl\总用量 125M
+drwxrwxr-x  9 www www 4.0K 8月   1 23:44 [0m[01;34m.[0m
+drwxrwxr-x  6 www www 4.0K 7月  30 16:08 [01;34m..[0m
+drwxrwxr-x  2 www www 4.0K 7月  23 17:05 [01;34maria[0m
+drwxrwxr-x  3 www www 4.0K 7月  28 11:05 [01;34mconf[0m
+drwxrwxr-x  3 adl adl 4.0K 8月   1 23:40 [01;34mlm[0m
+drwxrwxr-x 11 adl adl 4.0K 7月  24 00:17 [01;34mNeoTerm[0m
+drwxrwxr-x  2 adl adl  40K 7月  24 17:59 [01;34mneoterm-deb-repo[0m
+drwxrwxr-x  2 adl adl 4.0K 8月   1 23:28 [01;34mpkg[0m
+drwxrwxr-x  2 www www 4.0K 7月  12 08:47 [01;34mrsa_pub[0m
+-rw-r--r--  1 adl adl 108M 8月   1 23:39 [01;31mvim.tar.xz[0m
+-rwxrwxr-x  1 www www  17M 7月  10 14:45 [01;32mwuli.zip[0m
+[1m[3m%[23m[1m[0m                                                                                                                                                              k..e.cn/public/w\[0m[23m[24m[J[[31madl[00m@[35mrockpi4B[00m:[34m/www/wwwroot/almondlee.cn/public/w[00m on [32mmaster[00m]
+% [K[149C[31m ✖[34m ✹[36m ✭[00m[155D[?1h=[?2004h[1m[31mo[0m[39m[0m[32mo[32mp[39m[?1l>[?2004l
+kop\[?1h=[?25l[H[J[mtop - 23:48:43 up  2:18,  6 users,  load average: 3.09, 1.54, 1.21[m[39;49m[m[39;49m[K
+任务:[m[39;49m[1m 245 [m[39;49mtotal,[m[39;49m[1m   2 [m[39;49mrunning,[m[39;49m[1m 243 [m[39;49msleeping,[m[39;49m[1m   0 [m[39;49mstopped,[m[39;49m[1m   0 [m[39;49mzombie[m[39;49m[m[39;49m[K
+%Cpu(s):[m[39;49m[1m  4.6 [m[39;49mus,[m[39;49m[1m  1.9 [m[39;49msy,[m[39;49m[1m  0.0 [m[39;49mni,[m[39;49m[1m 93.5 [m[39;49mid,[m[39;49m[1m  0.0 [m[39;49mwa,[m[39;49m[1m  0.0 [m[39;49mhi,[m[39;49m[1m  0.0 [m[39;49msi,[m[39;49m[1m  0.0 [m[39;49mst[m[39;49m[m[39;49m[K
+KiB Mem :[m[39;49m[1m  3903116 [m[39;49mtotal,[m[39;49m[1m  1477500 [m[39;49mfree,[m[39;49m[1m   777480 [m[39;49mused,[m[39;49m[1m  1648136 [m[39;49mbuff/cache[m[39;49m[m[39;49m[K
+KiB Swap:[m[39;49m[1m  8388604 [m[39;49mtotal,[m[39;49m[1m  8382256 [m[39;49mfree,[m[39;49m[1m     6348 [m[39;49mused.[m[39;49m[1m  3088536 [m[39;49mavail Mem [m[39;49m[m[39;49m[K
+[K
+[7m进� USER      PR  NI    VIRT    RES    SHR �  %CPU %MEM     TIME+ COMMAND                                                                                   [m[39;49m[K
+[m[1m20443 adl       20   0   12720   3672   2932 R  21.1  0.1   0:00.07 top -c -d 3                                                                               [m[39;49m[K
+[m[1m20449 root      20   0   10088   3188   2636 R  15.8  0.1   0:00.03 /bin/sh ../../libtool --tag=CC --mode=link gcc -pthread -fvisibility=hidden -Wall -Wextr+ [m[39;49m[K
+[m    7 root      20   0       0      0      0 S   5.3  0.0   0:43.57 [rcu_sched]                                                                               [m[39;49m[K
+[m 2458 root      20   0   12424   6332   5320 S   5.3  0.2   0:00.74 sshd: root@pts/0                                                                          [m[39;49m[K
+[m20431 root      20   0    8932   2380   1924 S   5.3  0.1   0:00.01 make all                                                                                  [m[39;49m[K
+[m    1 root      20   0   95792   7732   5752 S   0.0  0.2   0:17.21 /sbin/init                                                                                [m[39;49m[K
+[m    2 root      20   0       0      0      0 S   0.0  0.0   0:00.01 [kthreadd]                                                                                [m[39;49m[K
+[m    3 root      20   0       0      0      0 S   0.0  0.0   0:01.23 [ksoftirqd/0]                                                                             [m[39;49m[K
+[m    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 [kworker/0:0H]                                                                            [m[39;49m[K
+[m    8 root      20   0       0      0      0 S   0.0  0.0   0:00.00 [rcu_bh]                                                                                  [m[39;49m[K
+[m    9 root      rt   0       0      0      0 S   0.0  0.0   0:00.69 [migration/0]                                                                             [m[39;49m[K
+[m   10 root      rt   0       0      0      0 S   0.0  0.0   0:00.13 [watchdog/0]                                                                              [m[39;49m[K
+[m   11 root      rt   0       0      0      0 S   0.0  0.0   0:00.11 [watchdog/1]                                                                              [m[39;49m[K
+[m   12 root      rt   0       0      0      0 S   0.0  0.0   0:00.65 [migration/1]                                                                             [m[39;49m[K
+[m   13 root      20   0       0      0      0 S   0.0  0.0   0:00.28 [ksoftirqd/1]                                                                             [m[39;49m[K
+[m   15 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 [kworker/1:0H]                                                                            [m[39;49m[K
+[m   16 root      rt   0       0      0      0 S   0.0  0.0   0:00.09 [watchdog/2]                                                                              [m[39;49m[K
+[m   17 root      rt   0       0      0      0 S   0.0  0.0   0:00.58 [migration/2]                                                                             [m[39;49m[K
+[m   18 root      20   0       0      0      0 S   0.0  0.0   0:00.23 [ksoftirqd/2]                                                                             [m[39;49m[K
+[m   20 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 [kworker/2:0H]                                                                            [m[39;49m[K
+[m   21 root      rt   0       0      0      0 S   0.0  0.0   0:00.08 [watchdog/3]                                                                              [m[39;49m[K
+[m   22 root      rt   0       0      0      0 S   0.0  0.0   0:00.54 [migration/3]                                                                             [m[39;49m[K
+[m   23 root      20   0       0      0      0 S   0.0  0.0   0:00.23 [ksoftirqd/3]                                                                             [m[39;49m[K
+[m   25 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 [kworker/3:0H]                                                                            [m[39;49m[K
+[m   26 root      rt   0       0      0      0 S   0.0  0.0   0:00.10 [watchdog/4]                                                                              [m[39;49m[K
+[m   27 root      rt   0       0      0      0 S   0.0  0.0   0:00.18 [migration/4]                                                                             [m[39;49m[K
+[m   28 root      20   0       0      0      0 S   0.0  0.0   0:00.91 [ksoftirqd/4]                                                                             [m[39;49m[K
+[m   30 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 [kworker/4:0H]                                                                            [m[39;49m[K
+[m   31 root      rt   0       0      0      0 S   0.0  0.0   0:00.06 [watchdog/5]                                                                              [m[39;49m[K
+[m   32 root      rt   0       0      0      0 S   0.0  0.0   0:00.14 [migration/5]                                                                             [m[39;49m[K
+[m   33 root      20   0       0      0      0 S   0.0  0.0   0:00.91 [ksoftirqd/5]                                                                             [m[39;49m[K
+[m   35 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 [kworker/5:0H]                                                                            [m[39;49m[K[?25l[H[mtop - 23:48:44 up  2:18,  6 users,  load average: 3.09, 1.54, 1.21[m[39;49m[m[39;49m[K
+任务:[m[39;49m[1m 237 [m[39;49mtotal,[m[39;49m[1m   1 [m[39;49mrunning,[m[39;49m[1m 236 [m[39;49msleeping,[m[39;49m[1m   0 [m[39;49mstopped,[m[39;49m[1m   0 [m[39;49mzombie[m[39;49m[m[39;49m[K
+%Cpu(s):[m[39;49m[1m  9.2 [m[39;49mus,[m[39;49m[1m 11.7 [m[39;49msy,[m[39;49m[1m  0.0 [m[39;49mni,[m[39;49m[1m 79.1 [m[39;49mid,[m[39;49m[1m  0.0 [m[39;49mwa,[m[39;49m[1m  0.0 [m[39;49mhi,[m[39;49m[1m  0.0 [m[39;49msi,[m[39;49m[1m  0.0 [m[39;49mst[m[39;49m[m[39;49m[K
+KiB Mem :[m[39;49m[1m 20.8[m[39;49m/3903116  [m[39;49m[m[[m[39;49m[m[1m||||||||||||||||||||[m[39;49m[m|[m[39;49m[m                                                                               ][m[39;49m[m[39;49m[K
+KiB Swap:[m[39;49m[1m  0.1[m[39;49m/8388604  [m[39;49m[m[[m[39;49m[m[m[39;49m[m                                                                                                    ][m[39;49m[m[39;49m[K
+[K
+[7m进� USER      PR  NI    VIRT    RES    SHR �  %CPU %MEM     TIME+ COMMAND                                                                                   [m[39;49m[K
+[m 1091 root      20   0  392392  13444   6408 S  10.7  0.3   4:56.22 python task.py                                                                            [m[39;49m[K
+[m[1m20443 adl       20   0   12720   3672   2932 R   4.0  0.1   0:00.10 top -c -d 3                                                                               [m[39;49m[K
+[m    7 root      20   0       0      0      0 S   1.3  0.0   0:43.58 [rcu_sched]                                                                               [m[39;49m[K
+[m   32 root      rt   0       0      0      0 S   1.3  0.0   0:00.15 [migration/5]                                                                             [m[39;49m[K
+[m   48 root      rt   0       0      0      0 S   1.3  0.0   0:23.01 [cfinteractive]                                                                           [m[39;49m[K
+[m  187 root      20   0       0      0      0 S   1.3  0.0   0:04.07 [mali-simple-pow]                                                                         [m[39;49m[K
+[m  757 mongodb   20   0  967124  70948  31236 S   1.3  1.8   1:47.45 /usr/bin/mongod --unixSocketPrefix=/run/mongodb --config /etc/mongodb.conf                [m[39;49m[K
+[m 2643 root      20   0  113656   6812   4336 S   1.3  0.2   0:15.36 /root/frp_0.27.0_linux_arm64/frpc -c /root/frp_0.27.0_linux_arm64/frpc.ini                [m[39;49m[K
+[m 6758 adl       20   0   10644   2680   1996 S   1.3  0.1   0:00.10 SCREEN -L -t D19.08.01T23:40:00 -S D19.08.01T23:40:00                                     [m[39;49m[K
+[m13162 root      20   0       0      0      0 S   1.3  0.0   0:00.06 [kworker/u12:1]                                                                           [m[39;49m[K
+[m    1 root      20   0   95792   7732   5752 S   0.0  0.2   0:17.21 /sbin/init                                                                                [m[39;49m[K
+[m    2 root      20   0       0      0      0 S   0.0  0.0   0:00.01 [kthreadd]                                                                                [m[39;49m[K
+[m    3 root      20   0       0      0      0 S   0.0  0.0   0:01.23 [ksoftirqd/0]                                                                             [m[39;49m[K
+[m    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 [kworker/0:0H]                                                                            [m[39;49m[K
+[m    8 root      20   0       0      0      0 S   0.0  0.0   0:00.00 [rcu_bh]                                                                                  [m[39;49m[K
+[m    9 root      rt   0       0      0      0 S   0.0  0.0   0:00.69 [migration/0]                                                                             [m[39;49m[K
+[m   10 root      rt   0       0      0      0 S   0.0  0.0   0:00.13 [watchdog/0]                                                                              [m[39;49m[K
+[m   11 root      rt   0       0      0      0 S   0.0  0.0   0:00.11 [watchdog/1]                                                                              [m[39;49m[K
+[m   12 root      rt   0       0      0      0 S   0.0  0.0   0:00.65 [migration/1]                                                                             [m[39;49m[K
+[m   13 root      20   0       0      0      0 S   0.0  0.0   0:00.28 [ksoftirqd/1]                                                                             [m[39;49m[K
+[m   15 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 [kworker/1:0H]                                                                            [m[39;49m[K
+[m   16 root      rt   0       0      0      0 S   0.0  0.0   0:00.09 [watchdog/2]                                                                              [m[39;49m[K
+[m   17 root      rt   0       0      0      0 S   0.0  0.0   0:00.58 [migration/2]                                                                             [m[39;49m[K
+[m   18 root      20   0       0      0      0 S   0.0  0.0   0:00.23 [ksoftirqd/2]                                                                             [m[39;49m[K
+[m   20 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 [kworker/2:0H]                                                                            [m[39;49m[K
+[m   21 root      rt   0       0      0      0 S   0.0  0.0   0:00.08 [watchdog/3]                                                                              [m[39;49m[K
+[m   22 root      rt   0       0      0      0 S   0.0  0.0   0:00.54 [migration/3]                                                                             [m[39;49m[K
+[m   23 root      20   0       0      0      0 S   0.0  0.0   0:00.23 [ksoftirqd/3]                                                                             [m[39;49m[K
+[m   25 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 [kworker/3:0H]                                                                            [m[39;49m[K
+[m   26 root      rt   0       0      0      0 S   0.0  0.0   0:00.10 [watchdog/4]                                                                              [m[39;49m[K
+[m   27 root      rt   0       0      0      0 S   0.0  0.0   0:00.18 [migration/4]                                                                             [m[39;49m[K
+[m   28 root      20   0       0      0      0 S   0.0  0.0   0:00.91 [ksoftirqd/4]                                                                             [m[39;49m[K[H[mtop - 23:48:47 up  2:18,  6 users,  load average: 3.09, 1.54, 1.21[m[39;49m[m[39;49m[K
+任务:[m[39;49m[1m 236 [m[39;49mtotal,[m[39;49m[1m   1 [m[39;49mrunning,[m[39;49m[1m 235 [m[39;49msleeping,[m[39;49m[1m   0 [m[39;49mstopped,[m[39;49m[1m   0 [m[39;49mzombie[m[39;49m[m[39;49m[K
+%Cpu(s):[m[39;49m[1m  1.7 [m[39;49mus,[m[39;49m[1m  2.2 [m[39;49msy,[m[39;49m[1m  0.0 [m[39;49mni,[m[39;49m[1m 96.1 [m[39;49mid,[m[39;49m[1m  0.0 [m[39;49mwa,[m[39;49m[1m  0.0 [m[39;49mhi,[m[39;49m[1m  0.1 [m[39;49msi,[m[39;49m[1m  0.0 [m[39;49mst[m[39;49m[m[39;49m[K
+
+
+[K
+
+[m 1091 root      20   0  392392  13444   6408 S   3.0  0.3   4:56.31 python task.py                                                                            [m[39;49m[K
+[m[1m20443 adl       20   0   12720   3672   2932 R   2.3  0.1   0:00.17 top -c -d 3                                                                               [m[39;49m[K
+[m  757 mongodb   20   0  967124  70948  31236 S   1.3  1.8   1:47.49 /usr/bin/mongod --unixSocketPrefix=/run/mongodb --config /etc/mongodb.conf                [m[39;49m[K
+[m  560 message+  20   0    7924   4284   3136 S   0.7  0.1   0:30.66 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activati+ [m[39;49m[K
+[m  949 lightdm   20   0  482136  31688  23156 S   0.7  0.8   0:43.07 /usr/sbin/slick-greeter                                                                   [m[39;49m[K
+[m    7 root      20   0       0      0      0 S   0.3  0.0   0:43.59 [rcu_sched]                                                                               [m[39;49m[K
+[m   28 root      20   0       0      0      0 S   0.3  0.0   0:00.92 [ksoftirqd/4]                                                                             [m[39;49m[K
+[m   48 root      rt   0       0      0      0 S   0.3  0.0   0:23.02 [cfinteractive]                                                                           [m[39;49m[K
+[m  827 redis     20   0   43244   3504   2376 S   0.3  0.1   0:40.90 /usr/bin/redis-server 127.0.0.1:6379                                                      [m[39;49m[K
+[m 1075 root      20   0  145084  54936   5544 S   0.3  1.4   0:06.02 gunicorn: worker [runserver:app]                                                          [m[39;49m[K
+[m 2530 root      20   0   15524   7176   3728 S   0.3  0.2   0:12.69 -zsh                                                                                      [m[39;49m[K
+[m29205 root      20   0       0      0      0 S   0.3  0.0   0:01.35 [kworker/u12:3]                                                                           [m[39;49m[K
+[m    1 root      20   0   95792   7732   5752 S   0.0  0.2   0:17.21 /sbin/init                                                                                [m[39;49m[K
+[m    2 root      20   0       0      0      0 S   0.0  0.0   0:00.01 [kthreadd]                                                                                [m[39;49m[K
+[m    3 root      20   0       0      0      0 S   0.0  0.0   0:01.23 [ksoftirqd/0]                                                                             [m[39;49m[K
+[m    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 [kworker/0:0H]                                                                            [m[39;49m[K
+[m    8 root      20   0       0      0      0 S   0.0  0.0   0:00.00 [rcu_bh]                                                                                  [m[39;49m[K
+[m    9 root      rt   0       0      0      0 S   0.0  0.0   0:00.69 [migration/0]                                                                             [m[39;49m[K
+[m   10 root      rt   0       0      0      0 S   0.0  0.0   0:00.13 [watchdog/0]                                                                              [m[39;49m[K
+[m   11 root      rt   0       0      0      0 S   0.0  0.0   0:00.11 [watchdog/1]                                                                              [m[39;49m[K
+[m   12 root      rt   0       0      0      0 S   0.0  0.0   0:00.65 [migration/1]                                                                             [m[39;49m[K
+[m   13 root      20   0       0      0      0 S   0.0  0.0   0:00.28 [ksoftirqd/1]                                                                             [m[39;49m[K
+[m   15 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 [kworker/1:0H]                                                                            [m[39;49m[K
+[m   16 root      rt   0       0      0      0 S   0.0  0.0   0:00.09 [watchdog/2]                                                                              [m[39;49m[K
+[m   17 root      rt   0       0      0      0 S   0.0  0.0   0:00.58 [migration/2]                                                                             [m[39;49m[K
+[m   18 root      20   0       0      0      0 S   0.0  0.0   0:00.23 [ksoftirqd/2]                                                                             [m[39;49m[K
+[m   20 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 [kworker/2:0H]                                                                            [m[39;49m[K
+[m   21 root      rt   0       0      0      0 S   0.0  0.0   0:00.08 [watchdog/3]                                                                              [m[39;49m[K
+[m   22 root      rt   0       0      0      0 S   0.0  0.0   0:00.54 [migration/3]                                                                             [m[39;49m[K
+[m   23 root      20   0       0      0      0 S   0.0  0.0   0:00.23 [ksoftirqd/3]                                                                             [m[39;49m[K
+[m   25 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 [kworker/3:0H]                                                                            [m[39;49m[K
+[m   26 root      rt   0       0      0      0 S   0.0  0.0   0:00.10 [watchdog/4]                                                                              [m[39;49m[K[H[mtop - 23:48:50 up  2:18,  6 users,  load average: 2.85, 1.52, 1.20[m[39;49m[m[39;49m[K
+
+%Cpu(s):[m[39;49m[1m  1.8 [m[39;49mus,[m[39;49m[1m  2.1 [m[39;49msy,[m[39;49m[1m  0.0 [m[39;49mni,[m[39;49m[1m 96.1 [m[39;49mid,[m[39;49m[1m  0.0 [m[39;49mwa,[m[39;49m[1m  0.0 [m[39;49mhi,[m[39;49m[1m  0.0 [m[39;49msi,[m[39;49m[1m  0.0 [m[39;49mst[m[39;49m[m[39;49m[K
+
+
+[K
+
+[m 1091 root      20   0  392392  13444   6408 S   4.9  0.3   4:56.46 python task.py                                                                            [m[39;49m[K
+[m[1m20443 adl       20   0   12720   3672   2932 R   1.6  0.1   0:00.22 top -c -d 3                                                                               [m[39;49m[K
+[m  757 mongodb   20   0  967124  70948  31236 S   1.0  1.8   1:47.52 /usr/bin/mongod --unixSocketPrefix=/run/mongodb --config /etc/mongodb.conf                [m[39;49m[K
+[m    7 root      20   0       0      0      0 S   0.7  0.0   0:43.61 [rcu_sched]                                                                               [m[39;49m[K
+[m  560 message+  20   0    7924   4284   3136 S   0.7  0.1   0:30.68 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activati+ [m[39;49m[K
+[m  827 redis     20   0   43244   3504   2376 S   0.7  0.1   0:40.92 /usr/bin/redis-server 127.0.0.1:6379                                                      [m[39;49m[K
+[m    1 root      20   0   95792   7732   5752 S   0.3  0.2   0:17.22 /sbin/init                                                                                [m[39;49m[K
+[m  193 root       0 -20       0      0      0 S   0.3  0.0   0:01.07 [kworker/5:1H]                                                                            [m[39;49m[K
+[m  671 root      20   0  233640   8560   5652 S   0.3  0.2   0:11.57 /usr/lib/policykit-1/polkitd --no-debug                                                   [m[39;49m[K
+[m  949 lightdm   20   0  482136  31688  23156 S   0.3  0.8   0:43.08 /usr/sbin/slick-greeter                                                                   [m[39;49m[K
+[m 1591 root      20   0   21688   4024   1920 S   0.3  0.1   0:00.96 sendmail: MTA: accepting connections                                                      [m[39;49m[K
+[m 2030 mysql     20   0 2475816 222152  18824 S   0.3  5.7   0:15.55 /www/server/mysql/bin/mysqld --basedir=/www/server/mysql --datadir=/www/server/data --pl+ [m[39;49m[K
+[m 2643 root      20   0  113656   6812   4336 S   0.3  0.2   0:15.37 /root/frp_0.27.0_linux_arm64/frpc -c /root/frp_0.27.0_linux_arm64/frpc.ini                [m[39;49m[K
+[m 6758 adl       20   0   10644   2680   1996 S   0.3  0.1   0:00.11 SCREEN -L -t D19.08.01T23:40:00 -S D19.08.01T23:40:00                                     [m[39;49m[K
+[m29205 root      20   0       0      0      0 S   0.3  0.0   0:01.36 [kworker/u12:3]                                                                           [m[39;49m[K
+[m    2 root      20   0       0      0      0 S   0.0  0.0   0:00.01 [kthreadd]                                                                                [m[39;49m[K
+[m    3 root      20   0       0      0      0 S   0.0  0.0   0:01.23 [ksoftirqd/0]                                                                             [m[39;49m[K
+[m    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 [kworker/0:0H]                                                                            [m[39;49m[K
+[m    8 root      20   0       0      0      0 S   0.0  0.0   0:00.00 [rcu_bh]                                                                                  [m[39;49m[K
+[m    9 root      rt   0       0      0      0 S   0.0  0.0   0:00.69 [migration/0]                                                                             [m[39;49m[K
+[m   10 root      rt   0       0      0      0 S   0.0  0.0   0:00.13 [watchdog/0]                                                                              [m[39;49m[K
+[m   11 root      rt   0       0      0      0 S   0.0  0.0   0:00.11 [watchdog/1]                                                                              [m[39;49m[K
+[m   12 root      rt   0       0      0      0 S   0.0  0.0   0:00.65 [migration/1]                                                                             [m[39;49m[K
+[m   13 root      20   0       0      0      0 S   0.0  0.0   0:00.28 [ksoftirqd/1]                                                                             [m[39;49m[K
+[m   15 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 [kworker/1:0H]                                                                            [m[39;49m[K
+[m   16 root      rt   0       0      0      0 S   0.0  0.0   0:00.09 [watchdog/2]                                                                              [m[39;49m[K
+[m   17 root      rt   0       0      0      0 S   0.0  0.0   0:00.58 [migration/2]                                                                             [m[39;49m[K
+[m   18 root      20   0       0      0      0 S   0.0  0.0   0:00.23 [ksoftirqd/2]                                                                             [m[39;49m[K
+[m   20 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 [kworker/2:0H]                                                                            [m[39;49m[K
+[m   21 root      rt   0       0      0      0 S   0.0  0.0   0:00.08 [watchdog/3]                                                                              [m[39;49m[K
+[m   22 root      rt   0       0      0      0 S   0.0  0.0   0:00.54 [migration/3]                                                                             [m[39;49m[K
+[m   23 root      20   0       0      0      0 S   0.0  0.0   0:00.23 [ksoftirqd/3]                                                                             [m[39;49m[K[H[mtop - 23:48:53 up  2:18,  6 users,  load average: 2.62, 1.49, 1.20[m[39;49m[m[39;49m[K
+
+%Cpu(s):[m[39;49m[1m  1.2 [m[39;49mus,[m[39;49m[1m  1.4 [m[39;49msy,[m[39;49m[1m  0.0 [m[39;49mni,[m[39;49m[1m 97.4 [m[39;49mid,[m[39;49m[1m  0.0 [m[39;49mwa,[m[39;49m[1m  0.0 [m[39;49mhi,[m[39;49m[1m  0.0 [m[39;49msi,[m[39;49m[1m  0.0 [m[39;49mst[m[39;49m[m[39;49m[K
+
+
+[K
+
+[m 1091 root      20   0  392392  13444   6408 S   5.2  0.3   4:56.62 python task.py                                                                            [m[39;49m[K
+[m[1m20443 adl       20   0   12720   3672   2932 R   2.3  0.1   0:00.29 top -c -d 3                                                                               [m[39;49m[K
+[m  757 mongodb   20   0  967124  70948  31236 S   1.6  1.8   1:47.57 /usr/bin/mongod --unixSocketPrefix=/run/mongodb --config /etc/mongodb.conf                [m[39;49m[K
+[m    7 root      20   0       0      0      0 S   0.7  0.0   0:43.63 [rcu_sched]                                                                               [m[39;49m[K
+[m  193 root       0 -20       0      0      0 S   0.3  0.0   0:01.08 [kworker/5:1H]                                                                            [m[39;49m[K
+[m  807 root      20   0  636444  45172  32136 S   0.3  1.2   0:13.18 /usr/lib/xorg/Xorg -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7+ [m[39;49m[K
+[m  827 redis     20   0   43244   3504   2376 S   0.3  0.1   0:40.93 /usr/bin/redis-server 127.0.0.1:6379                                                      [m[39;49m[K
+[m  895 root      20   0   68948  56688   9020 S   0.3  1.5   0:05.97 gunicorn: master [runserver:app]                                                          [m[39;49m[K
+[m  949 lightdm   20   0  482136  31688  23156 S   0.3  0.8   0:43.09 /usr/sbin/slick-greeter                                                                   [m[39;49m[K
+[m 2643 root      20   0  113656   6812   4336 S   0.3  0.2   0:15.38 /root/frp_0.27.0_linux_arm64/frpc -c /root/frp_0.27.0_linux_arm64/frpc.ini                [m[39;49m[K
+[m21483 root      20   0   12424   6216   5220 S   0.3  0.2   0:00.27 sshd: root@pts/3                                                                          [m[39;49m[K
+[m29205 root      20   0       0      0      0 S   0.3  0.0   0:01.37 [kworker/u12:3]                                                                           [m[39;49m[K
+[m    1 root      20   0   95792   7732   5752 S   0.0  0.2   0:17.22 /sbin/init                                                                                [m[39;49m[K
+[m    2 root      20   0       0      0      0 S   0.0  0.0   0:00.01 [kthreadd]                                                                                [m[39;49m[K
+[m    3 root      20   0       0      0      0 S   0.0  0.0   0:01.23 [ksoftirqd/0]                                                                             [m[39;49m[K
+[m    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 [kworker/0:0H]                                                                            [m[39;49m[K
+[m    8 root      20   0       0      0      0 S   0.0  0.0   0:00.00 [rcu_bh]                                                                                  [m[39;49m[K
+[m    9 root      rt   0       0      0      0 S   0.0  0.0   0:00.69 [migration/0]                                                                             [m[39;49m[K
+[m   10 root      rt   0       0      0      0 S   0.0  0.0   0:00.13 [watchdog/0]                                                                              [m[39;49m[K
+[m   11 root      rt   0       0      0      0 S   0.0  0.0   0:00.11 [watchdog/1]                                                                              [m[39;49m[K
+[m   12 root      rt   0       0      0      0 S   0.0  0.0   0:00.65 [migration/1]                                                                             [m[39;49m[K
+[m   13 root      20   0       0      0      0 S   0.0  0.0   0:00.28 [ksoftirqd/1]                                                                             [m[39;49m[K
+[m   15 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 [kworker/1:0H]                                                                            [m[39;49m[K
+[m   16 root      rt   0       0      0      0 S   0.0  0.0   0:00.09 [watchdog/2]                                                                              [m[39;49m[K
+[m   17 root      rt   0       0      0      0 S   0.0  0.0   0:00.58 [migration/2]                                                                             [m[39;49m[K
+[m   18 root      20   0       0      0      0 S   0.0  0.0   0:00.23 [ksoftirqd/2]                                                                             [m[39;49m[K
+[m   20 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 [kworker/2:0H]                                                                            [m[39;49m[K
+[m   21 root      rt   0       0      0      0 S   0.0  0.0   0:00.08 [watchdog/3]                                                                              [m[39;49m[K
+[m   22 root      rt   0       0      0      0 S   0.0  0.0   0:00.54 [migration/3]                                                                             [m[39;49m[K
+[m   23 root      20   0       0      0      0 S   0.0  0.0   0:00.23 [ksoftirqd/3]                                                                             [m[39;49m[K
+[m   25 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 [kworker/3:0H]                                                                            [m[39;49m[K
+[m   26 root      rt   0       0      0      0 S   0.0  0.0   0:00.10 [watchdog/4]                                                                              [m[39;49m[K[H[mtop - 23:48:56 up  2:18,  6 users,  load average: 2.62, 1.49, 1.20[m[39;49m[m[39;49m[K
+
+%Cpu(s):[m[39;49m[1m  0.9 [m[39;49mus,[m[39;49m[1m  1.8 [m[39;49msy,[m[39;49m[1m  0.0 [m[39;49mni,[m[39;49m[1m 97.3 [m[39;49mid,[m[39;49m[1m  0.0 [m[39;49mwa,[m[39;49m[1m  0.0 [m[39;49mhi,[m[39;49m[1m  0.0 [m[39;49msi,[m[39;49m[1m  0.0 [m[39;49mst[m[39;49m[m[39;49m[K
+
+
+[K
+
+[m 1091 root      20   0  392392  13444   6408 S   2.9  0.3   4:56.71 python task.py                                                                            [m[39;49m[K
+[m[1m20443 adl       20   0   12720   3672   2932 R   2.6  0.1   0:00.37 top -c -d 3                                                                               [m[39;49m[K
+[m  757 mongodb   20   0  967124  70948  31236 S   1.3  1.8   1:47.61 /usr/bin/mongod --unixSocketPrefix=/run/mongodb --config /etc/mongodb.conf                [m[39;49m[K
+[m    7 root      20   0       0      0      0 S   0.6  0.0   0:43.65 [rcu_sched]                                                                               [m[39;49m[K
+[m  827 redis     20   0   43244   3504   2376 S   0.6  0.1   0:40.95 /usr/bin/redis-server 127.0.0.1:6379                                                      [m[39;49m[K
+[m  949 lightdm   20   0  482136  31688  23156 S   0.6  0.8   0:43.11 /usr/sbin/slick-greeter                                                                   [m[39;49m[K
+[m   48 root      rt   0       0      0      0 S   0.3  0.0   0:23.03 [cfinteractive]                                                                           [m[39;49m[K
+[m  195 root      20   0       0      0      0 S   0.3  0.0   0:01.86 [jbd2/nvme0n1p5-]                                                                         [m[39;49m[K
+[m  560 message+  20   0    7924   4284   3136 S   0.3  0.1   0:30.69 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activati+ [m[39;49m[K
+[m  615 avahi     20   0    6140   3180   2748 S   0.3  0.1   0:04.76 avahi-daemon: running [rockpi4B.local]                                                    [m[39;49m[K
+[m  671 root      20   0  233640   8560   5652 S   0.3  0.2   0:11.58 /usr/lib/policykit-1/polkitd --no-debug                                                   [m[39;49m[K
+[m 1213 root      20   0   64180   8264   4256 S   0.3  0.2   0:01.20 php-fpm: master process (/www/server/php/73/etc/php-fpm.conf)                             [m[39;49m[K
+[m 6758 adl       20   0   10644   2680   1996 S   0.3  0.1   0:00.12 SCREEN -L -t D19.08.01T23:40:00 -S D19.08.01T23:40:00                                     [m[39;49m[K
+[m    1 root      20   0   95792   7732   5752 S   0.0  0.2   0:17.22 /sbin/init                                                                                [m[39;49m[K
+[m    2 root      20   0       0      0      0 S   0.0  0.0   0:00.01 [kthreadd]                                                                                [m[39;49m[K
+[m    3 root      20   0       0      0      0 S   0.0  0.0   0:01.23 [ksoftirqd/0]                                                                             [m[39;49m[K
+[m    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 [kworker/0:0H]                                                                            [m[39;49m[K
+[m    8 root      20   0       0      0      0 S   0.0  0.0   0:00.00 [rcu_bh]                                                                                  [m[39;49m[K
+[m    9 root      rt   0       0      0      0 S   0.0  0.0   0:00.69 [migration/0]                                                                             [m[39;49m[K
+[m   10 root      rt   0       0      0      0 S   0.0  0.0   0:00.13 [watchdog/0]                                                                              [m[39;49m[K
+[m   11 root      rt   0       0      0      0 S   0.0  0.0   0:00.11 [watchdog/1]                                                                              [m[39;49m[K
+[m   12 root      rt   0       0      0      0 S   0.0  0.0   0:00.65 [migration/1]                                                                             [m[39;49m[K
+[m   13 root      20   0       0      0      0 S   0.0  0.0   0:00.28 [ksoftirqd/1]                                                                             [m[39;49m[K
+[m   15 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 [kworker/1:0H]                                                                            [m[39;49m[K
+[m   16 root      rt   0       0      0      0 S   0.0  0.0   0:00.09 [watchdog/2]                                                                              [m[39;49m[K
+[m   17 root      rt   0       0      0      0 S   0.0  0.0   0:00.58 [migration/2]                                                                             [m[39;49m[K
+[m   18 root      20   0       0      0      0 S   0.0  0.0   0:00.23 [ksoftirqd/2]                                                                             [m[39;49m[K
+[m   20 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 [kworker/2:0H]                                                                            [m[39;49m[K
+[m   21 root      rt   0       0      0      0 S   0.0  0.0   0:00.08 [watchdog/3]                                                                              [m[39;49m[K
+[m   22 root      rt   0       0      0      0 S   0.0  0.0   0:00.54 [migration/3]                                                                             [m[39;49m[K
+[m   23 root      20   0       0      0      0 S   0.0  0.0   0:00.23 [ksoftirqd/3]                                                                             [m[39;49m[K
+[m   25 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 [kworker/3:0H]                                                                            [m[39;49m[K[H[mtop - 23:49:00 up  2:18,  6 users,  load average: 2.57, 1.50, 1.20[m[39;49m[m[39;49m[K
+
+%Cpu(s):[m[39;49m[1m  1.5 [m[39;49mus,[m[39;49m[1m  2.3 [m[39;49msy,[m[39;49m[1m  0.0 [m[39;49mni,[m[39;49m[1m 96.2 [m[39;49mid,[m[39;49m[1m  0.0 [m[39;49mwa,[m[39;49m[1m  0.0 [m[39;49mhi,[m[39;49m[1m  0.0 [m[39;49msi,[m[39;49m[1m  0.0 [m[39;49mst[m[39;49m[m[39;49m[K
+
+
+[K
+
+[m 1091 root      20   0  392392  13444   6408 S   3.2  0.3   4:56.81 python task.py                                                                            [m[39;49m[K
+[m[1m20443 adl       20   0   12720   3672   2932 R   1.9  0.1   0:00.43 top -c -d 3                                                                               [m[39;49m[K
+[m  757 mongodb   20   0  967124  70948  31236 S   1.0  1.8   1:47.64 /usr/bin/mongod --unixSocketPrefix=/run/mongodb --config /etc/mongodb.conf                [m[39;49m[K
+[m  560 message+  20   0    7924   4284   3136 S   0.6  0.1   0:30.71 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activati+ [m[39;49m[K
+[m  827 redis     20   0   43244   3504   2376 S   0.6  0.1   0:40.97 /usr/bin/redis-server 127.0.0.1:6379                                                      [m[39;49m[K
+[m    7 root      20   0       0      0      0 S   0.3  0.0   0:43.66 [rcu_sched]                                                                               [m[39;49m[K
+[m   48 root      rt   0       0      0      0 S   0.3  0.0   0:23.04 [cfinteractive]                                                                           [m[39;49m[K
+[m  187 root      20   0       0      0      0 S   0.3  0.0   0:04.08 [mali-simple-pow]                                                                         [m[39;49m[K
+[m  669 root      20   0  172408  10380   8808 S   0.3  0.3   0:03.96 /usr/sbin/cups-browsed                                                                    [m[39;49m[K
+[m  671 root      20   0  233640   8560   5652 S   0.3  0.2   0:11.59 /usr/lib/policykit-1/polkitd --no-debug                                                   [m[39;49m[K
+[m  807 root      20   0  636444  45172  32136 S   0.3  1.2   0:13.19 /usr/lib/xorg/Xorg -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7+ [m[39;49m[K
+[m  949 lightdm   20   0  482136  31688  23156 S   0.3  0.8   0:43.12 /usr/sbin/slick-greeter                                                                   [m[39;49m[K
+[m 1075 root      20   0  145084  54936   5544 S   0.3  1.4   0:06.03 gunicorn: worker [runserver:app]                                                          [m[39;49m[K
+[m 2030 mysql     20   0 2475816 222152  18824 S   0.3  5.7   0:15.56 /www/server/mysql/bin/mysqld --basedir=/www/server/mysql --datadir=/www/server/data --pl+ [m[39;49m[K
+[m 2643 root      20   0  113656   6812   4336 S   0.3  0.2   0:15.39 /root/frp_0.27.0_linux_arm64/frpc -c /root/frp_0.27.0_linux_arm64/frpc.ini                [m[39;49m[K
+[m13162 root      20   0       0      0      0 S   0.3  0.0   0:00.07 [kworker/u12:1]                                                                           [m[39;49m[K
+[m    1 root      20   0   95792   7732   5752 S   0.0  0.2   0:17.22 /sbin/init                                                                                [m[39;49m[K
+[m    2 root      20   0       0      0      0 S   0.0  0.0   0:00.01 [kthreadd]                                                                                [m[39;49m[K
+[m    3 root      20   0       0      0      0 S   0.0  0.0   0:01.23 [ksoftirqd/0]                                                                             [m[39;49m[K
+[m    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 [kworker/0:0H]                                                                            [m[39;49m[K
+[m    8 root      20   0       0      0      0 S   0.0  0.0   0:00.00 [rcu_bh]                                                                                  [m[39;49m[K
+[m    9 root      rt   0       0      0      0 S   0.0  0.0   0:00.69 [migration/0]                                                                             [m[39;49m[K
+[m   10 root      rt   0       0      0      0 S   0.0  0.0   0:00.13 [watchdog/0]                                                                              [m[39;49m[K
+[m   11 root      rt   0       0      0      0 S   0.0  0.0   0:00.11 [watchdog/1]                                                                              [m[39;49m[K
+[m   12 root      rt   0       0      0      0 S   0.0  0.0   0:00.65 [migration/1]                                                                             [m[39;49m[K
+[m   13 root      20   0       0      0      0 S   0.0  0.0   0:00.28 [ksoftirqd/1]                                                                             [m[39;49m[K
+[m   15 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 [kworker/1:0H]                                                                            [m[39;49m[K
+[m   16 root      rt   0       0      0      0 S   0.0  0.0   0:00.09 [watchdog/2]                                                                              [m[39;49m[K
+[m   17 root      rt   0       0      0      0 S   0.0  0.0   0:00.58 [migration/2]                                                                             [m[39;49m[K
+[m   18 root      20   0       0      0      0 S   0.0  0.0   0:00.23 [ksoftirqd/2]                                                                             [m[39;49m[K
+[m   20 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 [kworker/2:0H]                                                                            [m[39;49m[K
+[m   21 root      rt   0       0      0      0 S   0.0  0.0   0:00.08 [watchdog/3]                                                                              [m[39;49m[K[H[mtop - 23:49:03 up  2:18,  6 users,  load average: 2.57, 1.50, 1.20[m[39;49m[m[39;49m[K
+任务:[m[39;49m[1m 236 [m[39;49mtotal,[m[39;49m[1m   2 [m[39;49mrunning,[m[39;49m[1m 234 [m[39;49msleeping,[m[39;49m[1m   0 [m[39;49mstopped,[m[39;49m[1m   0 [m[39;49mzombie[m[39;49m[m[39;49m[K
+%Cpu(s):[m[39;49m[1m  2.5 [m[39;49mus,[m[39;49m[1m  2.7 [m[39;49msy,[m[39;49m[1m  0.0 [m[39;49mni,[m[39;49m[1m 94.7 [m[39;49mid,[m[39;49m[1m  0.0 [m[39;49mwa,[m[39;49m[1m  0.0 [m[39;49mhi,[m[39;49m[1m  0.1 [m[39;49msi,[m[39;49m[1m  0.0 [m[39;49mst[m[39;49m[m[39;49m[K
+
+
+[K
+
+[m 1091 root      20   0  392392  13444   6408 S   6.5  0.3   4:57.01 python task.py                                                                            [m[39;49m[K
+[m 2530 root      20   0   15524   7176   3728 S   4.2  0.2   0:12.82 -zsh                                                                                      [m[39;49m[K
+[m[1m20443 adl       20   0   12720   3672   2932 R   2.3  0.1   0:00.50 top -c -d 3                                                                               [m[39;49m[K
+[m  757 mongodb   20   0  967124  70948  31236 S   1.0  1.8   1:47.67 /usr/bin/mongod --unixSocketPrefix=/run/mongodb --config /etc/mongodb.conf                [m[39;49m[K
+[m    7 root      20   0       0      0      0 S   0.7  0.0   0:43.68 [rcu_sched]                                                                               [m[39;49m[K
+[m    1 root      20   0   95792   7732   5752 S   0.3  0.2   0:17.23 /sbin/init                                                                                [m[39;49m[K
+[m[1m   48 root      rt   0       0      0      0 R   0.3  0.0   0:23.05 [cfinteractive]                                                                           [m[39;49m[K
+[m  560 message+  20   0    7924   4284   3136 S   0.3  0.1   0:30.72 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activati+ [m[39;49m[K
+[m  671 root      20   0  233640   8560   5652 S   0.3  0.2   0:11.60 /usr/lib/policykit-1/polkitd --no-debug                                                   [m[39;49m[K
+[m  827 redis     20   0   43244   3504   2376 S   0.3  0.1   0:40.98 /usr/bin/redis-server 127.0.0.1:6379                                                      [m[39;49m[K
+[m  949 lightdm   20   0  482136  31688  23156 S   0.3  0.8   0:43.13 /usr/sbin/slick-greeter                                                                   [m[39;49m[K
+[m 2030 mysql     20   0 2475816 222152  18824 S   0.3  5.7   0:15.57 /www/server/mysql/bin/mysqld --basedir=/www/server/mysql --datadir=/www/server/data --pl+ [m[39;49m[K
+[m 2458 root      20   0   12424   6332   5320 S   0.3  0.2   0:00.75 sshd: root@pts/0                                                                          [m[39;49m[K
+[m 2643 root      20   0  113656   6812   4336 S   0.3  0.2   0:15.40 /root/frp_0.27.0_linux_arm64/frpc -c /root/frp_0.27.0_linux_arm64/frpc.ini                [m[39;49m[K
+[m 6758 adl       20   0   10644   2680   1996 S   0.3  0.1   0:00.13 SCREEN -L -t D19.08.01T23:40:00 -S D19.08.01T23:40:00                                     [m[39;49m[K
+[m13162 root      20   0       0      0      0 S   0.3  0.0   0:00.08 [kworker/u12:1]                                                                           [m[39;49m[K
+[m29205 root      20   0       0      0      0 S   0.3  0.0   0:01.38 [kworker/u12:3]                                                                           [m[39;49m[K
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[H[mtop - 23:49:06 up  2:18,  6 users,  load average: 2.44, 1.49, 1.20[m[39;49m[m[39;49m[K
+任务:[m[39;49m[1m 246 [m[39;49mtotal,[m[39;49m[1m   1 [m[39;49mrunning,[m[39;49m[1m 245 [m[39;49msleeping,[m[39;49m[1m   0 [m[39;49mstopped,[m[39;49m[1m   0 [m[39;49mzombie[m[39;49m[m[39;49m[K
+%Cpu(s):[m[39;49m[1m  4.4 [m[39;49mus,[m[39;49m[1m  3.4 [m[39;49msy,[m[39;49m[1m  0.0 [m[39;49mni,[m[39;49m[1m 92.3 [m[39;49mid,[m[39;49m[1m  0.0 [m[39;49mwa,[m[39;49m[1m  0.0 [m[39;49mhi,[m[39;49m[1m  0.0 [m[39;49msi,[m[39;49m[1m  0.0 [m[39;49mst[m[39;49m[m[39;49m[K
+KiB Mem :[m[39;49m[1m 21.0[m[39;49m/3903116  [m[39;49m[m[[m[39;49m[m[1m||||||||||||||||||||[m[39;49m[m|[m[39;49m[m                                                                               ][m[39;49m[m[39;49m[K
+
+[K
+
+[m20766 root      20   0    9840   2828   1688 S   4.2  0.1   0:00.13 make install                                                                              [m[39;49m[K
+[m20787 root      20   0   10220   3224   1672 S   3.6  0.1   0:00.11 make install-am                                                                           [m[39;49m[K
+[m20788 root      20   0   10220   3492   1744 S   2.9  0.1   0:00.09 make install-exec-am install-data-am                                                      [m[39;49m[K
+[m 2530 root      20   0   15524   7176   3728 S   2.6  0.2   0:12.90 -zsh                                                                                      [m[39;49m[K
+[m[1m20443 adl       20   0   12720   3672   2932 R   2.0  0.1   0:00.56 top -c -d 3                                                                               [m[39;49m[K
+[m  757 mongodb   20   0  967124  70948  31236 S   1.3  1.8   1:47.71 /usr/bin/mongod --unixSocketPrefix=/run/mongodb --config /etc/mongodb.conf                [m[39;49m[K
+[m 1091 root      20   0  392392  13444   6408 S   1.3  0.3   4:57.05 python task.py                                                                            [m[39;49m[K
+[m    7 root      20   0       0      0      0 S   1.0  0.0   0:43.71 [rcu_sched]                                                                               [m[39;49m[K
+[m  827 redis     20   0   43244   3504   2376 S   0.7  0.1   0:41.00 /usr/bin/redis-server 127.0.0.1:6379                                                      [m[39;49m[K
+[m  949 lightdm   20   0  482136  31688  23156 S   0.7  0.8   0:43.15 /usr/sbin/slick-greeter                                                                   [m[39;49m[K
+[m   27 root      rt   0       0      0      0 S   0.3  0.0   0:00.19 [migration/4]                                                                             [m[39;49m[K
+[m   48 root      rt   0       0      0      0 S   0.3  0.0   0:23.06 [cfinteractive]                                                                           [m[39;49m[K
+[m  193 root       0 -20       0      0      0 S   0.3  0.0   0:01.09 [kworker/5:1H]                                                                            [m[39;49m[K
+[m  194 root       0 -20       0      0      0 S   0.3  0.0   0:00.59 [kworker/4:1H]                                                                            [m[39;49m[K
+[m  807 root      20   0  636444  45172  32136 S   0.3  1.2   0:13.20 /usr/lib/xorg/Xorg -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7+ [m[39;49m[K
+[m 2458 root      20   0   12424   6332   5320 S   0.3  0.2   0:00.76 sshd: root@pts/0                                                                          [m[39;49m[K
+[m20759 root      20   0    8932   2028   1792 S   0.3  0.1   0:00.01 make install                                                                              [m[39;49m[K
+[m29205 root      20   0       0      0      0 S   0.3  0.0   0:01.39 [kworker/u12:3]                                                                           [m[39;49m[K
+[m    1 root      20   0   95792   7732   5752 S   0.0  0.2   0:17.23 /sbin/init                                                                                [m[39;49m[K
+[m    2 root      20   0       0      0      0 S   0.0  0.0   0:00.01 [kthreadd]                                                                                [m[39;49m[K
+[m    3 root      20   0       0      0      0 S   0.0  0.0   0:01.23 [ksoftirqd/0]                                                                             [m[39;49m[K
+[m    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 [kworker/0:0H]                                                                            [m[39;49m[K
+[m    8 root      20   0       0      0      0 S   0.0  0.0   0:00.00 [rcu_bh]                                                                                  [m[39;49m[K
+[m    9 root      rt   0       0      0      0 S   0.0  0.0   0:00.69 [migration/0]                                                                             [m[39;49m[K
+[m   10 root      rt   0       0      0      0 S   0.0  0.0   0:00.13 [watchdog/0]                                                                              [m[39;49m[K
+[m   11 root      rt   0       0      0      0 S   0.0  0.0   0:00.11 [watchdog/1]                                                                              [m[39;49m[K
+[m   12 root      rt   0       0      0      0 S   0.0  0.0   0:00.65 [migration/1]                                                                             [m[39;49m[K
+[m   13 root      20   0       0      0      0 S   0.0  0.0   0:00.28 [ksoftirqd/1]                                                                             [m[39;49m[K
+[m   15 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 [kworker/1:0H]                                                                            [m[39;49m[K
+[m   16 root      rt   0       0      0      0 S   0.0  0.0   0:00.09 [watchdog/2]                                                                              [m[39;49m[K
+[m   17 root      rt   0       0      0      0 S   0.0  0.0   0:00.58 [migration/2]                                                                             [m[39;49m[K
+[m   18 root      20   0       0      0      0 S   0.0  0.0   0:00.23 [ksoftirqd/2]                                                                             [m[39;49m[K[?1l>[40;1H
+[34h[?25h[K[1m[3m%[23m[1m[0m                                                                                                                                                              k..e.cn/public/w\[0m[23m[24m[J[[31madl[00m@[35mrockpi4B[00m:[34m/www/wwwroot/almondlee.cn/public/w[00m on [32mmaster[00m]
+% [K[149C[31m ✖[34m ✹[36m ✭[00m[155D[?1h=[?2004h

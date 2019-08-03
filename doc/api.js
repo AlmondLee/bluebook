@@ -9,6 +9,13 @@ function func (params) {
 }
 
 /******** new ********/
+
+https://www.almondlee.cn/api/get_user_money?token=24_gUI7EwZGw-npGJDZHX0wEPkASQW1Aa9PAn4O0gmsc-paJaZ_iCWtHZDZu5WBiPOW55-KjzynoxOoCNmsGQNdmA
+
+/******** new ********/
+
+
+
 function set_worker_status (params) {
     var params = {
         sure: 1,    //['已审核', '已提交', '未提交', 5 => '已领取', -1 => '未通过', -2 => '客服中']
@@ -17,7 +24,6 @@ function set_worker_status (params) {
         id_worker: 38
     }
 }
-/******** new ********/
 
 
 function delete_file (params) {
