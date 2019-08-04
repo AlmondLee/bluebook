@@ -285,7 +285,7 @@ get('/get_products', {
     senter_img: 'char 发布者头像的链接',
     work_name: 'char 任务名字(标题)',
     work_content: 'char 任务内容',
-    work_tpl: 'int 任务类型[0 => "其他", 1 => "答问卷", 2 => "代投票", 3 => "帮转发"]',
+    work_tpl: 'int 任务类型[0 => "其他", 1 => "代办类", 2 => "转发类", 3 => "问卷类"]',
     work_money: 'int 赏金/人(单位0.01人民币)',
     work_person_number: 'int 此工作需要多少人',
     stop_at: 'int 报名截止时间',
