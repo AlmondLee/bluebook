@@ -12,6 +12,7 @@ function func (params) {
 
 https://www.almondlee.cn/api/set_super_config?super_token=24_gUI7EwZGw-npGJDZHX0wEPkASQW1Aa9PAn4O0gmsc-paJaZ_iCWtHZDZu5WBiPOW55-KjzynoxOoCNmsGQNdmA&key=egm&value=2
 //egm即为每次enroll的时候give的money数, super_token不会变, 用表单填入
+
 /******** new ********/
 
 
@@ -40,7 +41,7 @@ function delete_file (params) {
 function get_my_workers (params) {
     var params = {
         token: '',
-        id_work: 1  //get_works_by_me传回的work的id; 这是获取该任务需要审核的工作者
+        id_work: 1  //get_works_by_me传回的work的id; 这是获取该任务需要审核的工作者,及其凭证
     }
 
     return {
