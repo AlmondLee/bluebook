@@ -16,7 +16,7 @@ var params = {
     //理论上来说, 下面的都是非必填项, 但分页的话就都要填
     order: 'created_at',
     order_value: 1,
-    esc: 'false',           //没事的话就不传这个参数, 要倒序在随便传一个false之外的值
+    esc: 'true',           //没事的话就不传这个参数, 要倒序在随便传一个true之外的值
     last_object_id: 56
 }
 
