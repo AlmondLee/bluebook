@@ -10,11 +10,26 @@ function func (params) {
 
 /******** new ********/
 
-https://www.almondlee.cn/api/set_super_config?super_token=24_gUI7EwZGw-npGJDZHX0wEPkASQW1Aa9PAn4O0gmsc-paJaZ_iCWtHZDZu5WBiPOW55-KjzynoxOoCNmsGQNdmA&key=egm&value=2
-//egm即为每次enroll的时候give的money数, super_token不会变, 用表单填入
+var params = {
+    super_token: '',
+    object_tpl: 'works',    //['sellers' => '商家', 'user_info' => '已登录的用户的信息', 'works' => '任务']
+    //理论上来说, 下面的都是非必填项, 但分页的话就都要填
+    order: 'created_at',
+    order_value: 1,
+    esc: 'false',           //没事的话就不传这个参数, 要倒序在随便传一个false之外的值
+    last_object_id: 56
+}
+
+
+function get_all_info(params) {
+
+}
 
 /******** new ********/
 
+
+https://www.almondlee.cn/api/set_super_config?super_token=24_gUI7EwZGw-npGJDZHX0wEPkASQW1Aa9PAn4O0gmsc-paJaZ_iCWtHZDZu5WBiPOW55-KjzynoxOoCNmsGQNdmA&key=egm&value=2
+//egm即为每次enroll的时候give的money数, super_token不会变, 用表单填入
 
 https://www.almondlee.cn/api/get_user_money?token=24_gUI7EwZGw-npGJDZHX0wEPkASQW1Aa9PAn4O0gmsc-paJaZ_iCWtHZDZu5WBiPOW55-KjzynoxOoCNmsGQNdmA
 
