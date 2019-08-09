@@ -88,7 +88,7 @@ function get_works_by_me (params) {
 function post_work (params) {
     var params = {
         token: '',
-        id_work: 5  //工作者将自己接的这个工作提交发布者审核
+        id_senting_work: 5  //工作者将自己接的这个工作提交发布者审核
     }
 }
 
