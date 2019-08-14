@@ -11,6 +11,26 @@ function func (params) {
 /******** new ********/
 
 var params = {
+    token: '',
+    type: 'work',   //或worker, 分解在发布任务的表单和提交凭证的表单删除图片
+    id_work: 5,
+    file_name: '/storage/drgnfjiksoldAJ.png'
+}
+
+
+
+function delete_file (params) {
+
+}
+
+/******** new ********/
+
+
+
+
+
+
+var params = {
     super_token: '',
     object_tpl: 'works',    //['sellers' => '商家', 'user_info' => '已登录的用户的信息', 'works' => '任务']
     //理论上来说, 下面的都是非必填项, 但分页的话就都要填
@@ -24,9 +44,6 @@ var params = {
 function get_all_info(params) {
 
 }
-
-/******** new ********/
-
 
 https://www.almondlee.cn/api/set_super_config?super_token=24_gUI7EwZGw-npGJDZHX0wEPkASQW1Aa9PAn4O0gmsc-paJaZ_iCWtHZDZu5WBiPOW55-KjzynoxOoCNmsGQNdmA&key=egm&value=2
 //egm即为每次enroll的时候give的money数, super_token不会变, 用表单填入
