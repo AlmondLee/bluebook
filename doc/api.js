@@ -11,6 +11,28 @@ function func (params) {
 /******** new ********/
 
 var params = {
+    token: 'adfnjsdfgvjikfjmlase',
+    //以下是非必填项
+    esc: 'false',   //或者true
+    tpl: 'money',
+    order: 'created_at',
+    orderValue: 1,
+    last_id: 5
+}
+
+
+
+function func (params) {
+
+}
+
+/******** new ********/
+
+
+
+
+
+var params = {
     token: '',
     type: 'work',   //或worker, 分解在发布任务的表单和提交凭证的表单删除图片
     id_work: 5,
@@ -22,12 +44,6 @@ var params = {
 function delete_file (params) {
 
 }
-
-/******** new ********/
-
-
-
-
 
 
 var params = {
