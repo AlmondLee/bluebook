@@ -10,6 +10,23 @@ function func (params) {
 
 /******** new ********/
 
+
+var params = {
+    token: '',
+    total_fee: 1        //要支付的人民币, 以分为单位
+}
+
+
+
+function before_pay (params) {
+
+}
+
+/******** new ********/
+
+
+
+
 var params = {
     token: 'adfnjsdfgvjikfjmlase',
     //以下是非必填项
@@ -22,15 +39,9 @@ var params = {
 
 
 
-function func (params) {
+function get_money_log (params) {
 
 }
-
-/******** new ********/
-
-
-
-
 
 var params = {
     token: '',
