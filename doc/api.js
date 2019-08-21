@@ -9,6 +9,23 @@ function func (params) {
 }
 
 /******** new ********/
+
+var params = {
+    token: '',
+    id_work: '',
+    showed: 2
+}
+
+
+
+function hide_work (params) {
+
+}
+
+/******** new ********/
+
+
+
 https://www.almondlee.cn/api/find?token=24_9ngWxdk8Ib6if5eEbjO2DgiPDGagZP3um2rzShdFYBLG6nZGhRXI7ScdgToimNm45toBPAbLbJ6wQDr0Dp5-bA&out_trade_no=1566005727_5330-9
 
 var params = {
@@ -21,10 +38,6 @@ var params = {
 function find (params) {
 
 }
-
-/******** new ********/
-
-
 
 
 var params = {
